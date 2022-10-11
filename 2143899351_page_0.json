@@ -1,0 +1,308 @@
+{
+  "id_sptag": "2143899351",
+  "index_page": 0,
+  "name_cl_sptag": "Takagi Karakai Jouzu no Takagisan",
+  "name_parent": "Anime",
+  "total_img": 7,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "989041253",
+  "hc_lt_nortag": "1858187141",
+  "hc_lt_sptag": "434945418",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "902363090",
+      "hc_lt_id_sptag": "-1448521026",
+      "id_img": "KarakaiJouzunoTakagisan_957203_crop2608_1018662510",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjH34nqlD3qM/i03izEj+RhTe0Mxaf4xY9yUL17UZd4JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjH34nqlD3qM/i03izEj+RicbcYZ4wuirgdH8mxvaN+pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "970783452",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1230434216",
+        "-442593670",
+        "-353024394",
+        "2143899351",
+        "491824726",
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "902363090",
+      "hc_lt_id_sptag": "-77042366",
+      "id_img": "KarakaiJouzunoTakagisan_957204_crop2608_-1768752977",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMFKLbg6TotsPUqbA+7oX3y7EprLJJ48aUWu1enABQ2ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMFKLbg6TotsPUqbA+7oX37wDcgM+GdF/1CUD56zdzA5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "970783452",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1230434216",
+        "1541647243",
+        "2143899351",
+        "1813151526",
+        "768898453",
+        "1078827483",
+        "491824726",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "902363090",
+      "hc_lt_id_sptag": "891260758",
+      "id_img": "KarakaiJouzunoTakagisan_928310_crop2608_-1124874137",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSUQBbGJhcFlIThzHPySQuIKGmKfR25NJHGfmrngv1DpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSUQBbGJhcFlIThzHPySQub4pHPwBBcvqMkr6kdmWzT5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "970783452",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "-1230434216",
+        "-1546073662",
+        "-353024394",
+        "2143899351",
+        "1813151526",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "902363090",
+      "hc_lt_id_sptag": "-977005653",
+      "id_img": "KarakaiJouzunoTakagisan_909874_crop2608_710613319",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkL0dC5FaXk+7rePokdxGThqqkifaa0mOI4Yf9rLizR5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkL0dC5FaXk+7rePokdxGThm3hFH/4Vw4n8FHSOaaWYJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "970783452",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "1545739930",
+        "-353024394",
+        "1541647243",
+        "2143899351",
+        "-1620039744",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "902363090",
+      "hc_lt_id_sptag": "-1656006359",
+      "id_img": "KarakaiJouzunoTakagisan_957205_crop2608_-261201168",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRJpFtqKPhHDyLyjLyfJ/7EAfvqL54qJfQ2fgaVWchuZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRJpFtqKPhHDyLyjLyfJ/7ZpJc4pBOi7e8qpuATHxd85Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "970783452",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "750914149",
+        "-1230434216",
+        "2143899351",
+        "1813151526",
+        "-1620039744",
+        "1078827483",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "902363090",
+      "hc_lt_id_sptag": "-1340774902",
+      "id_img": "KarakaiJouzunoTakagisan_957205_crop2608_-1462261918",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZTNZ/zlvqEdwrLtCkL50pX4U3F4smVvPnpovCHxiAKZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZTNZ/zlvqEdwrLtCkL50pQVObapEusT6oBOL/FIsfWJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "970783452",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "750914149",
+        "-1230434216",
+        "-353024394",
+        "2143899351",
+        "1813151526",
+        "-1620039744",
+        "1078827483",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1453592066",
+      "hc_lt_id_sptag": "1543627165",
+      "id_img": "KarakaiJouzunoTakagisan_907666_crop2608_-771190870",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1HQIhmBXd6hBGzf8r4gYAhWuoSXcu/psoholmMKrLtpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1HQIhmBXd6hBGzf8r4gYARLZar/vZttNAlw/v83/JJpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "970783452",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "2143899351",
+        "-1620039744"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "970783452",
+      "name_cl_nortag": "Karakai Jouzu no Takagisan",
+      "total_img": 7,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-442593670",
+      "name_cl_sptag": "Girls Hoodie",
+      "name_parent": "Anime",
+      "total": 2667
+    },
+    {
+      "id_sptag": "750914149",
+      "name_cl_sptag": "Girls Kimono Yukata Cheongsam",
+      "name_parent": "Anime",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-1546073662",
+      "name_cl_sptag": "Girls Loli",
+      "name_parent": "Anime",
+      "total": 2098
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "768898453",
+      "name_cl_sptag": "Girls Scarf",
+      "name_parent": "Anime",
+      "total": 3306
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1620039744",
+      "name_cl_sptag": "Nishikata Karakai Jouzu no Takagisan",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "2143899351",
+      "name_cl_sptag": "Takagi Karakai Jouzu no Takagisan",
+      "name_parent": "Anime",
+      "total": 7
+    }
+  ]
+}

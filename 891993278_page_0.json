@@ -1,0 +1,96 @@
+{
+  "id_sptag": "891993278",
+  "index_page": 0,
+  "name_cl_sptag": "Steven A Starphase",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-637174755",
+  "hc_lt_nortag": "-1560688267",
+  "hc_lt_sptag": "-563061776",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1161450724",
+      "hc_lt_id_sptag": "-665436644",
+      "id_img": "BloodBlockadeBattlefront_672351_crop2608_630293344",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA+Pd9chZYi+HmTZ0RbC+lw5oSJgGKFz9uRJy1alNo5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejA+Pd9chZYi+HmTZ0RbC+wKvHItFVOLfEjP89xgh6o5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1575827177",
+        "1622629413"
+      ],
+      "lt_id_sptag": [
+        "-696045158",
+        "846928483",
+        "-2057294372",
+        "891993278",
+        "256951417",
+        "990039523"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1622629413",
+      "name_cl_nortag": "Blood Blockade Battlefront",
+      "total_img": 27,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1575827177",
+      "name_cl_nortag": "Unrefined",
+      "total_img": 824,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "990039523",
+      "name_cl_sptag": "Chain Sumeragi",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "846928483",
+      "name_cl_sptag": "Klaus Von Reinherz",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-2057294372",
+      "name_cl_sptag": "Leonardo Watch",
+      "name_parent": "Anime",
+      "total": 14
+    },
+    {
+      "id_sptag": "256951417",
+      "name_cl_sptag": "Sonic Speed Monkey",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "891993278",
+      "name_cl_sptag": "Steven A Starphase",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-696045158",
+      "name_cl_sptag": "Zapp Renfro",
+      "name_parent": "Anime",
+      "total": 4
+    }
+  ]
+}

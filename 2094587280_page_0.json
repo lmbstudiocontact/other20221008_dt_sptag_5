@@ -1,0 +1,117 @@
+{
+  "id_sptag": "2094587280",
+  "index_page": 0,
+  "name_cl_sptag": "Umiko Ahagon",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "67366096",
+  "hc_lt_nortag": "218772310",
+  "hc_lt_sptag": "-1394289407",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1532413781",
+      "hc_lt_id_sptag": "-1863675175",
+      "id_img": "NewGame_736197_crop2608_1045873214",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJdIfBw5y7lR41GtZ9MUlLAclQ5cFWfxRMH37LVHQQrpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJdIfBw5y7lR41GtZ9MUlLNovQ9HQQS+0F3yLYDwUo65Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1031687669",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2094587280",
+        "-817656526",
+        "-1230434216",
+        "-1546073662",
+        "-353024394",
+        "376240968",
+        "-1165766878",
+        "1078827483",
+        "491824726"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1031687669",
+      "name_cl_nortag": "New Game",
+      "total_img": 123,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-1546073662",
+      "name_cl_sptag": "Girls Loli",
+      "name_parent": "Anime",
+      "total": 2098
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-817656526",
+      "name_cl_sptag": "Nene Sakura",
+      "name_parent": "Anime",
+      "total": 7
+    },
+    {
+      "id_sptag": "2094587280",
+      "name_cl_sptag": "Umiko Ahagon",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

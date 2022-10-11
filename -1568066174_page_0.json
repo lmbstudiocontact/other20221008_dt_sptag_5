@@ -1,0 +1,206 @@
+{
+  "id_sptag": "-1568066174",
+  "index_page": 0,
+  "name_cl_sptag": "Subaru Wish Upon the Pleiades",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-393489727",
+  "hc_lt_nortag": "-1918819793",
+  "hc_lt_sptag": "-1169661896",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1666112822",
+      "hc_lt_id_sptag": "-1471604391",
+      "id_img": "WishUponthePleiades_883377_crop2608_1580948496",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHHVCN8JdaWMkBFcRHNj53/CV8vZUK8knDPiN5HrxBGpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHHVCN8JdaWMkBFcRHNj53rbCbU/2/noj9ngASLM8/NZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-883945690",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "117222074",
+        "1568092380",
+        "1541647243",
+        "-1882261033",
+        "-1568066174",
+        "1078827483",
+        "491824726",
+        "-1358769180",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1666112822",
+      "hc_lt_id_sptag": "687008431",
+      "id_img": "WishUponthePleiades_677470_crop2608_-1354838969",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifB18f23kmctYhVx4vlW0N7hFipMHjFwgl+gSjqwlP9vpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifB18f23kmctYhVx4vlW0N7MSRahwQxwsBuD9573r6LdZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-883945690",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "1755521698",
+        "29436897",
+        "376240968",
+        "1627623413",
+        "1541647243",
+        "-1307705100",
+        "-1568066174",
+        "1078827483",
+        "-1358769180",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1666112822",
+      "hc_lt_id_sptag": "1578490982",
+      "id_img": "WishUponthePleiades_861402_crop2608_-1641640461",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpjPsSmAyvW6PhDS5TahL7R5ofuadSGRgicrHFt2h3IZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpjPsSmAyvW6PhDS5TahL7ahykhnG/k6qm2CHp/LlRnJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-883945690",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "1755521698",
+        "1541647243",
+        "-1568066174",
+        "1078827483",
+        "-1358769180",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-883945690",
+      "name_cl_nortag": "Wish Upon the Pleiades",
+      "total_img": 14,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1568092380",
+      "name_cl_sptag": "Girls Eyes Orange",
+      "name_parent": "Anime",
+      "total": 3828
+    },
+    {
+      "id_sptag": "1755521698",
+      "name_cl_sptag": "Girls Eyes Yellow",
+      "name_parent": "Anime",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1358769180",
+      "name_cl_sptag": "Girls Hair Pink",
+      "name_parent": "Anime",
+      "total": 5690
+    },
+    {
+      "id_sptag": "1627623413",
+      "name_cl_sptag": "Girls Hair Red",
+      "name_parent": "Anime",
+      "total": 3081
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1541647243",
+      "name_cl_sptag": "Girls Student",
+      "name_parent": "Anime",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1882261033",
+      "name_cl_sptag": "Girls Witch",
+      "name_parent": "Anime",
+      "total": 8338
+    },
+    {
+      "id_sptag": "-1307705100",
+      "name_cl_sptag": "Pantyhose",
+      "name_parent": "Anime",
+      "total": 89
+    },
+    {
+      "id_sptag": "29436897",
+      "name_cl_sptag": "School Uniform",
+      "name_parent": "Anime",
+      "total": 467
+    },
+    {
+      "id_sptag": "-1568066174",
+      "name_cl_sptag": "Subaru Wish Upon the Pleiades",
+      "name_parent": "Anime",
+      "total": 3
+    }
+  ]
+}

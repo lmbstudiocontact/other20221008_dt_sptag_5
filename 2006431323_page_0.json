@@ -1,0 +1,75 @@
+{
+  "id_sptag": "2006431323",
+  "index_page": 0,
+  "name_cl_sptag": "Yaoi",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1281591355",
+  "hc_lt_nortag": "2121310937",
+  "hc_lt_sptag": "-79248394",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-22667222",
+      "hc_lt_id_sptag": "2005753365",
+      "id_img": "DeathNote_922263_crop2608_1163428641",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1YvmraCPWReveoqNhoKmlG+f0A5u87IahLMXMoogpPJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1YvmraCPWReveoqNhoKmlcxIzT2H/1rXdKA0Mmnemo5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "192190647"
+      ],
+      "lt_id_sptag": [
+        "2006431323",
+        "2080340491",
+        "-135098271"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "192190647",
+      "name_cl_nortag": "Death Note",
+      "total_img": 92,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "2080340491",
+      "name_cl_sptag": "L Death Note",
+      "name_parent": "Anime",
+      "total": 24
+    },
+    {
+      "id_sptag": "-135098271",
+      "name_cl_sptag": "Light Yagami",
+      "name_parent": "Anime",
+      "total": 24
+    },
+    {
+      "id_sptag": "2006431323",
+      "name_cl_sptag": "Yaoi",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

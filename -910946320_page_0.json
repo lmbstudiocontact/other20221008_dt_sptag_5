@@ -1,0 +1,206 @@
+{
+  "id_sptag": "-910946320",
+  "index_page": 0,
+  "name_cl_sptag": "Sniper Rifle",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1787659294",
+  "hc_lt_nortag": "2102306434",
+  "hc_lt_sptag": "1536943104",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-913259641",
+      "hc_lt_id_sptag": "-1932244113",
+      "id_img": "ChaikaTheCoffinPrincess_563686_crop2608_1953986187",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZnyKoUoqbkY1JklyEMgEiRtSjV8SzWr0EAWrLkOlG3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZnyKoUoqbkY1JklyEMgEibO08spWJ6gvd2KLYF1TSKZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-163965883",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-220048903",
+        "177416588",
+        "-910946320",
+        "-729883027",
+        "-353024394",
+        "63311442",
+        "-260062140",
+        "-1823594757",
+        "1649949488",
+        "1078827483",
+        "491824726",
+        "26918368"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1531712947",
+      "hc_lt_id_sptag": "2007108797",
+      "id_img": "Original_688454_crop2608_22766333",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHVV4eqvMlUfCeNj8sYrvbUQXgU2YB2uYeuxepv3nrY5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHVV4eqvMlUfCeNj8sYrvbdNLAhobOXvaxGR80Ersud5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "766871050",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-910946320",
+        "117222074",
+        "-353024394",
+        "376240968",
+        "-260062140",
+        "-1165766878",
+        "-1302656344",
+        "2137211747"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-163965883",
+      "name_cl_nortag": "Chaika The Coffin Princess",
+      "total_img": 16,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "766871050",
+      "name_cl_nortag": "Original",
+      "total_img": 1020,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "2137211747",
+      "name_cl_sptag": "Blonde",
+      "name_parent": "Anime",
+      "total": 908
+    },
+    {
+      "id_sptag": "491824726",
+      "name_cl_sptag": "Girls Cute Cool",
+      "name_parent": "Anime",
+      "total": 31431
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-729883027",
+      "name_cl_sptag": "Girls Eyes Violet",
+      "name_parent": "Anime",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "117222074",
+      "name_cl_sptag": "Girls Hats",
+      "name_parent": "Anime",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "63311442",
+      "name_cl_sptag": "Glove",
+      "name_parent": "Anime",
+      "total": 164
+    },
+    {
+      "id_sptag": "-220048903",
+      "name_cl_sptag": "Gun",
+      "name_parent": "Anime",
+      "total": 55
+    },
+    {
+      "id_sptag": "1649949488",
+      "name_cl_sptag": "Shorts",
+      "name_parent": "Anime",
+      "total": 32
+    },
+    {
+      "id_sptag": "177416588",
+      "name_cl_sptag": "Skirt",
+      "name_parent": "Anime",
+      "total": 368
+    },
+    {
+      "id_sptag": "-910946320",
+      "name_cl_sptag": "Sniper Rifle",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-1302656344",
+      "name_cl_sptag": "Sniper",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "26918368",
+      "name_cl_sptag": "Thigh Highs",
+      "name_parent": "Anime",
+      "total": 211
+    }
+  ]
+}

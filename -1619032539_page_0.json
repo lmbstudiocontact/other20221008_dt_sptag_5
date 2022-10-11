@@ -1,0 +1,128 @@
+{
+  "id_sptag": "-1619032539",
+  "index_page": 0,
+  "name_cl_sptag": "Smoking",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-664270667",
+  "hc_lt_nortag": "1541372204",
+  "hc_lt_sptag": "828778356",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1971765911",
+      "hc_lt_id_sptag": "-1978127694",
+      "id_img": "OnePiece_932963_crop2608_1797764167",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUklcICrx02ieXALDTSUiSylem/mkn7I1EdbZ/sVzGRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUklcICrx02ieXALDTSUiSIGv23qM3OT4Wy30Am6frI5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1166409139",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-976770768",
+        "1533791211",
+        "-1619032539"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1971765911",
+      "hc_lt_id_sptag": "204246700",
+      "id_img": "OnePiece_721547_crop2608_1800026347",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYE5dFie+2gkSUoJcQ37oy50pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYEa8rbshfc7c1kWrcua7EgEJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1166409139",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "1999476299",
+        "1492662970",
+        "-1619032539",
+        "2137211747",
+        "-1612103380",
+        "1548903087"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1166409139",
+      "name_cl_nortag": "One Piece",
+      "total_img": 283,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "2137211747",
+      "name_cl_sptag": "Blonde",
+      "name_parent": "Anime",
+      "total": 908
+    },
+    {
+      "id_sptag": "1492662970",
+      "name_cl_sptag": "Chain",
+      "name_parent": "Anime",
+      "total": 22
+    },
+    {
+      "id_sptag": "1999476299",
+      "name_cl_sptag": "Cigarette",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "1533791211",
+      "name_cl_sptag": "Cigar",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "1548903087",
+      "name_cl_sptag": "Fire",
+      "name_parent": "Anime",
+      "total": 24
+    },
+    {
+      "id_sptag": "-1612103380",
+      "name_cl_sptag": "Sanji One Piece",
+      "name_parent": "Anime",
+      "total": 74
+    },
+    {
+      "id_sptag": "-976770768",
+      "name_cl_sptag": "Smoker One Piece",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "-1619032539",
+      "name_cl_sptag": "Smoking",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

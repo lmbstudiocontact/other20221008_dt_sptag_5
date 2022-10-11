@@ -1,0 +1,167 @@
+{
+  "id_sptag": "1272662005",
+  "index_page": 0,
+  "name_cl_sptag": "Watermelon",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1867217499",
+  "hc_lt_nortag": "1175853853",
+  "hc_lt_sptag": "1609620531",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2092928010",
+      "hc_lt_id_sptag": "-368829527",
+      "id_img": "Original_907850_crop2608_1637205235",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidl6/qpD31yCMRamnGzHQmO+NM8mLvUPA5vL1MYr5rY85Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidl6/qpD31yCMRamnGzHQmOtycbzM4Ol6rVdGmrX83ICJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-1556851449"
+      ],
+      "lt_id_sptag": [
+        "750914149",
+        "-729883027",
+        "1272662005",
+        "-353024394",
+        "376240968",
+        "-1686571485",
+        "-67611207",
+        "424585427",
+        "-1165766878",
+        "1078827483",
+        "2137211747",
+        "1410951528"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2092928010",
+      "hc_lt_id_sptag": "-368829527",
+      "id_img": "Original_907850_crop2608_-1738387578",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieY3bxEuSusPtI2TqSmdw82STAjc7t/R4jrtf/bJnLT9pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieY3bxEuSusPtI2TqSmdw82JClm9sJvVNEPbC/jmafUSZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1182628656",
+        "-1556851449"
+      ],
+      "lt_id_sptag": [
+        "750914149",
+        "-729883027",
+        "1272662005",
+        "-353024394",
+        "376240968",
+        "-1686571485",
+        "-67611207",
+        "424585427",
+        "-1165766878",
+        "1078827483",
+        "2137211747",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1556851449",
+      "name_cl_nortag": "Original 10",
+      "total_img": 637,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "2137211747",
+      "name_cl_sptag": "Blonde",
+      "name_parent": "Anime",
+      "total": 908
+    },
+    {
+      "id_sptag": "-67611207",
+      "name_cl_sptag": "Blush",
+      "name_parent": "Anime",
+      "total": 893
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-729883027",
+      "name_cl_sptag": "Girls Eyes Violet",
+      "name_parent": "Anime",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "750914149",
+      "name_cl_sptag": "Girls Kimono Yukata Cheongsam",
+      "name_parent": "Anime",
+      "total": 7942
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "424585427",
+      "name_cl_sptag": "Ponytail",
+      "name_parent": "Anime",
+      "total": 108
+    },
+    {
+      "id_sptag": "1272662005",
+      "name_cl_sptag": "Watermelon",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

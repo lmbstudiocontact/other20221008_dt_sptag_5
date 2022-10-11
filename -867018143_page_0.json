@@ -1,0 +1,103 @@
+{
+  "id_sptag": "-867018143",
+  "index_page": 0,
+  "name_cl_sptag": "Takehisa Hinawa",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "557898513",
+  "hc_lt_nortag": "-805258733",
+  "hc_lt_sptag": "-332277288",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-733107923",
+      "hc_lt_id_sptag": "-189148034",
+      "id_img": "FireForce_1000700_crop2608_1408580946",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHBR8XxkD9wD7rhc/t8ioTG+NdH4ERbCEHzVviRLWnrpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHBR8XxkD9wD7rhc/t8ioTBRmGOC33f9GYEyI2P4ut8JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2141197158"
+      ],
+      "lt_id_sptag": [
+        "68567383",
+        "-504740731",
+        "-71970585",
+        "944352385",
+        "-867018143"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-733107923",
+      "hc_lt_id_sptag": "-189148034",
+      "id_img": "FireForce_720685_crop2608_-1052514310",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieiPGXvS6Z6xlMZZQjlmhJzHZWZVSbfnzPmh0WfQW5J0ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieiPGXvS6Z6xlMZZQjlmhJzMyz/NPwPqD8oZa6pxLH7m5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-2141197158"
+      ],
+      "lt_id_sptag": [
+        "68567383",
+        "-504740731",
+        "-71970585",
+        "944352385",
+        "-867018143"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2141197158",
+      "name_cl_nortag": "Fire Force",
+      "total_img": 17,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "68567383",
+      "name_cl_sptag": "Akitaru Oubi",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-71970585",
+      "name_cl_sptag": "Iris Fire Force",
+      "name_parent": "Anime",
+      "total": 4
+    },
+    {
+      "id_sptag": "-504740731",
+      "name_cl_sptag": "Maki Oze",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "944352385",
+      "name_cl_sptag": "Shinra Kusakabe",
+      "name_parent": "Anime",
+      "total": 7
+    },
+    {
+      "id_sptag": "-867018143",
+      "name_cl_sptag": "Takehisa Hinawa",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

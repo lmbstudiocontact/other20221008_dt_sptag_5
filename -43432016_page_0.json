@@ -1,0 +1,179 @@
+{
+  "id_sptag": "-43432016",
+  "index_page": 0,
+  "name_cl_sptag": "Urd Oh My Goddess",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-960904282",
+  "hc_lt_nortag": "-1823911992",
+  "hc_lt_sptag": "-1647686319",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1445852959",
+      "hc_lt_id_sptag": "895828316",
+      "id_img": "AhMyGoddess_328619_crop2608_-1240652948",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5U6ixLQcb7mz0x0zhtc0t9GRDV89ttUmZ3odekgOWFpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5U6ixLQcb7mz0x0zhtc0t52SR/O/8MtlxW9xGjpE5/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1410875259",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "1622667236",
+        "-1353196196",
+        "1813151526",
+        "1078827483",
+        "-43432016"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1445852959",
+      "hc_lt_id_sptag": "-2064548507",
+      "id_img": "AhMyGoddess_227382_crop2608_-841418179",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickwVjjiF3w3hjQ4ZcoXqU3WglskEqWCtOH5QMRMVOWQJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickwVjjiF3w3hjQ4ZcoXqU3+AjOsvApy1OJ0OkT4FHcdZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1410875259",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "-1937610099",
+        "-353024394",
+        "-1686571485",
+        "-260062140",
+        "-1165766878",
+        "-1823594757",
+        "-899599709",
+        "1078827483",
+        "-43432016"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1410875259",
+      "name_cl_nortag": "Ah My Goddess",
+      "total_img": 27,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-899599709",
+      "name_cl_sptag": "Girls Eyes Black",
+      "name_parent": "Anime",
+      "total": 5810
+    },
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "1813151526",
+      "name_cl_sptag": "Girls Hair Brow",
+      "name_parent": "Anime",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1937610099",
+      "name_cl_sptag": "Girls Hair Grey",
+      "name_parent": "Anime",
+      "total": 9239
+    },
+    {
+      "id_sptag": "-1353196196",
+      "name_cl_sptag": "Girls Hair Orange",
+      "name_parent": "Anime",
+      "total": 4128
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "1622667236",
+      "name_cl_sptag": "Girls Wedding",
+      "name_parent": "Anime",
+      "total": 2328
+    },
+    {
+      "id_sptag": "-43432016",
+      "name_cl_sptag": "Urd Oh My Goddess",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

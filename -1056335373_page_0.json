@@ -1,0 +1,133 @@
+{
+  "id_sptag": "-1056335373",
+  "index_page": 0,
+  "name_cl_sptag": "Soma Yukihira",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "2049786749",
+  "hc_lt_nortag": "1443059718",
+  "hc_lt_sptag": "1863817468",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2022510395",
+      "hc_lt_id_sptag": "1992394605",
+      "id_img": "Crossover_949067_crop2608_-1719704445",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvnL3+HfbCXx6NBDDHEe+3ryjc9vVoCKNcsIEGaVSOPZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvnL3+HfbCXx6NBDDHEe+3gattqA3z3Nu75NeTWhXbbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-91316480",
+        "1097983947",
+        "-135098271",
+        "636212748",
+        "-1583410095",
+        "-1056335373"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2022510395",
+      "hc_lt_id_sptag": "1992394605",
+      "id_img": "Crossover_949067_crop2608_9438114",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1dt2u/yFI24716Jr+JLd/FiQ3y6Rm51vVyG9bzcOQgpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1dt2u/yFI24716Jr+JLd/VNVbrH1/YEwi+jwHQSfMkZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-91316480",
+        "1097983947",
+        "-135098271",
+        "636212748",
+        "-1583410095",
+        "-1056335373"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2022510395",
+      "hc_lt_id_sptag": "1992394605",
+      "id_img": "Crossover_949067_crop2608_-1883140432",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqXGqN+FGO+uwdgNZwbPUt+NzOPlf2dba8D6xeeQEL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiclqXGqN+FGO+uwdgNZwbPUH0MIRcCxhcPsFZnQmR3+g5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-91316480",
+        "1097983947",
+        "-135098271",
+        "636212748",
+        "-1583410095",
+        "-1056335373"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1213914829",
+      "name_cl_nortag": "Crossover",
+      "total_img": 505,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1097983947",
+      "name_cl_sptag": "Goku",
+      "name_parent": "Anime",
+      "total": 321
+    },
+    {
+      "id_sptag": "-1583410095",
+      "name_cl_sptag": "Izuku Midoriya",
+      "name_parent": "Anime",
+      "total": 177
+    },
+    {
+      "id_sptag": "-135098271",
+      "name_cl_sptag": "Light Yagami",
+      "name_parent": "Anime",
+      "total": 24
+    },
+    {
+      "id_sptag": "-91316480",
+      "name_cl_sptag": "Monkey D Luffy",
+      "name_parent": "Anime",
+      "total": 156
+    },
+    {
+      "id_sptag": "636212748",
+      "name_cl_sptag": "Naruto Uzumaki",
+      "name_parent": "Anime",
+      "total": 292
+    },
+    {
+      "id_sptag": "-1056335373",
+      "name_cl_sptag": "Soma Yukihira",
+      "name_parent": "Anime",
+      "total": 3
+    }
+  ]
+}

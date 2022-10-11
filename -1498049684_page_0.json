@@ -1,0 +1,164 @@
+{
+  "id_sptag": "-1498049684",
+  "index_page": 0,
+  "name_cl_sptag": "Shizuka Mogami",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-288118638",
+  "hc_lt_nortag": "-853143380",
+  "hc_lt_sptag": "-49722729",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "664509403",
+      "hc_lt_id_sptag": "-1900384881",
+      "id_img": "TheiDOLMSTERCinderellaGirls_898295_crop2608_-588524568",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjcadCSSnRd4CMt7vmkT7iZV5WDwOXGdb2nWRAiv+0RpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjcadCSSnRd4CMt7vmkT7iqSB98EmtkhFGS0XNAPGXXpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-567407967",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1230434216",
+        "-353024394",
+        "376240968",
+        "-1686571485",
+        "-1498049684",
+        "768898453"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "717833707",
+      "hc_lt_id_sptag": "-64209181",
+      "id_img": "TheiDOLMSTER_899681_crop2608_-869598570",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienwhDJkTw59dkEDtGG9iWxRs7nYbU6fundjt/Zhno3xZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienwhDJkTw59dkEDtGG9iWxOYqs4EooDgJhJz9kYXHfvZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1292828749",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "450034396",
+        "-1937610099",
+        "-353024394",
+        "643795693",
+        "376240968",
+        "-260062140",
+        "-1498049684",
+        "1078827483",
+        "-891588467"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-567407967",
+      "name_cl_nortag": "The iDOLMSTER Cinderella Girls",
+      "total_img": 274,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "1292828749",
+      "name_cl_nortag": "The iDOLMSTER",
+      "total_img": 201,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "376240968",
+      "name_cl_sptag": "Girls Eyes Blue",
+      "name_parent": "Anime",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1686571485",
+      "name_cl_sptag": "Girls Hair Black",
+      "name_parent": "Anime",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-1937610099",
+      "name_cl_sptag": "Girls Hair Grey",
+      "name_parent": "Anime",
+      "total": 9239
+    },
+    {
+      "id_sptag": "643795693",
+      "name_cl_sptag": "Girls Hair Violet",
+      "name_parent": "Anime",
+      "total": 2650
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "768898453",
+      "name_cl_sptag": "Girls Scarf",
+      "name_parent": "Anime",
+      "total": 3306
+    },
+    {
+      "id_sptag": "-1230434216",
+      "name_cl_sptag": "Girls Smile",
+      "name_parent": "Anime",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-260062140",
+      "name_cl_sptag": "Girls Uniform",
+      "name_parent": "Anime",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-891588467",
+      "name_cl_sptag": "Mirai Kasuga",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "450034396",
+      "name_cl_sptag": "Serika Hakozaki",
+      "name_parent": "Anime",
+      "total": 3
+    },
+    {
+      "id_sptag": "-1498049684",
+      "name_cl_sptag": "Shizuka Mogami",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

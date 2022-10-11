@@ -1,0 +1,82 @@
+{
+  "id_sptag": "-1835785934",
+  "index_page": 0,
+  "name_cl_sptag": "Wave",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "505359511",
+  "hc_lt_nortag": "-1818375834",
+  "hc_lt_sptag": "-1042448364",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1435848237",
+      "hc_lt_id_sptag": "1769236879",
+      "id_img": "Original_854070_crop2608_1852243122",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidIIr48Tur7VvUgK9VIOP7J043xz86FUU6YLpb4YEj+8pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidIIr48Tur7VvUgK9VIOP7J342GfoXv+n/4MHTPUlctUJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1680016906",
+        "1911116961"
+      ],
+      "lt_id_sptag": [
+        "325835566",
+        "-2114154352",
+        "-1835785934",
+        "1447453426"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1911116961",
+      "name_cl_nortag": "Original 7",
+      "total_img": 594,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1680016906",
+      "name_cl_nortag": "Scenery Arts",
+      "total_img": 2036,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1447453426",
+      "name_cl_sptag": "Bird",
+      "name_parent": "Anime",
+      "total": 95
+    },
+    {
+      "id_sptag": "325835566",
+      "name_cl_sptag": "Cloud",
+      "name_parent": "Anime",
+      "total": 163
+    },
+    {
+      "id_sptag": "-2114154352",
+      "name_cl_sptag": "Water",
+      "name_parent": "Anime",
+      "total": 98
+    },
+    {
+      "id_sptag": "-1835785934",
+      "name_cl_sptag": "Wave",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

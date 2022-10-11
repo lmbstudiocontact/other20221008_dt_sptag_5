@@ -1,0 +1,71 @@
+{
+  "id_sptag": "352383071",
+  "index_page": 0,
+  "name_cl_sptag": "Titus Alexius",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1691067910",
+  "hc_lt_nortag": "-1733142746",
+  "hc_lt_sptag": "162249831",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1735244850",
+      "hc_lt_id_sptag": "-1167314933",
+      "id_img": "MagiTheLabyrinthOfMagic_710901_crop2608_-733399345",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGh8o2ti8IMqe4A/gK5z66rdqY0z+COzWMlsEm94HHLpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGh8o2ti8IMqe4A/gK5z66TpI4gSXF82aI5sZuDyWz3pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "40846551"
+      ],
+      "lt_id_sptag": [
+        "352383071"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1735244850",
+      "hc_lt_id_sptag": "-1167314933",
+      "id_img": "MagiTheLabyrinthOfMagic_710901_crop2608_858702115",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLRHhfpKYOKrOsDE39LCTDSM6cuTg3fZ2g50aosqfRW5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLRHhfpKYOKrOsDE39LCTDO0BPHdoAtf67GB6oCviTJZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "40846551"
+      ],
+      "lt_id_sptag": [
+        "352383071"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "40846551",
+      "name_cl_nortag": "Magi The Labyrinth Of Magic",
+      "total_img": 34,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "352383071",
+      "name_cl_sptag": "Titus Alexius",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

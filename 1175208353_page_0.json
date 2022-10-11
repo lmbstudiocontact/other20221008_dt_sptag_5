@@ -1,0 +1,119 @@
+{
+  "id_sptag": "1175208353",
+  "index_page": 0,
+  "name_cl_sptag": "Umetarou Nozaki",
+  "name_parent": "Anime",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1264435477",
+  "hc_lt_nortag": "423595669",
+  "hc_lt_sptag": "-1814835639",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1060788967",
+      "hc_lt_id_sptag": "-1098257990",
+      "id_img": "MonthlyGirlsNozakikun_713783_crop2608_265175241",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifODz9nJWb0IzPFjtDMvDPwLeZRFPe559fRB9NGf6/LLZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifODz9nJWb0IzPFjtDMvDPwZvBL9hiEtmfR1lwhbQcxkZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1575827177",
+        "-970384421"
+      ],
+      "lt_id_sptag": [
+        "-1336551828",
+        "1175208353",
+        "-1475268634"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1535184344",
+      "hc_lt_id_sptag": "-1098257990",
+      "id_img": "MonthlyGirlsNozakikun_713783_crop2608_-1379241610",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezA0F1Eb8FeNE82Pir8gJ7D22d6ef5hJftKNxEhSHku5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezA0F1Eb8FeNE82Pir8gJ766JS7g1hMAWQubC96W6e+JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-970384421"
+      ],
+      "lt_id_sptag": [
+        "-1336551828",
+        "1175208353",
+        "-1475268634"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1964633464",
+      "hc_lt_id_sptag": "-238196899",
+      "id_img": "MonthlyGirlsNozakikun_713786_crop2608_-1151553479",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLpYbkHSJM3VkOgqYafrjrYOQh9QFvjEal/kNZnxF3jJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLpYbkHSJM3VkOgqYafrjrujcZCp4+B+uBB2UxrJzloZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-970384421"
+      ],
+      "lt_id_sptag": [
+        "1175208353",
+        "-1475268634"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1728965817",
+      "name_cl_nortag": "Couple",
+      "total_img": 2059,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-970384421",
+      "name_cl_nortag": "Monthly Girls Nozakikun",
+      "total_img": 9,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1575827177",
+      "name_cl_nortag": "Unrefined",
+      "total_img": 824,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1475268634",
+      "name_cl_sptag": "Chiyo Sakura",
+      "name_parent": "Anime",
+      "total": 15
+    },
+    {
+      "id_sptag": "-1336551828",
+      "name_cl_sptag": "Gekkan Shoujo Nozakikun",
+      "name_parent": "Anime",
+      "total": 5
+    },
+    {
+      "id_sptag": "1175208353",
+      "name_cl_sptag": "Umetarou Nozaki",
+      "name_parent": "Anime",
+      "total": 3
+    }
+  ]
+}

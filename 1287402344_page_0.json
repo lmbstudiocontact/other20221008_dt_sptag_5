@@ -1,0 +1,110 @@
+{
+  "id_sptag": "1287402344",
+  "index_page": 0,
+  "name_cl_sptag": "Suzushiro Nagisa",
+  "name_parent": "Anime",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "2145328125",
+  "hc_lt_nortag": "1694364364",
+  "hc_lt_sptag": "-475342337",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1344494626",
+      "hc_lt_id_sptag": "530118319",
+      "id_img": "Fortissimo_853087_crop2608_-328608675",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierH1FV5oDmYn2vp5BoVbv7PKFgRuRo4UBdlacOuxD81JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierH1FV5oDmYn2vp5BoVbv7/clWd59aACvRbFsy7MR/SZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1382723994",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "1545739930",
+        "1755521698",
+        "-353024394",
+        "-1165766878",
+        "-1823594757",
+        "1078827483",
+        "1287402344"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1382723994",
+      "name_cl_nortag": "Fortissimo",
+      "total_img": 9,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1545739930",
+      "name_cl_sptag": "Girls Eyes Brown",
+      "name_parent": "Anime",
+      "total": 9376
+    },
+    {
+      "id_sptag": "1755521698",
+      "name_cl_sptag": "Girls Eyes Yellow",
+      "name_parent": "Anime",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-1165766878",
+      "name_cl_sptag": "Girls Hair Yellow",
+      "name_parent": "Anime",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "1287402344",
+      "name_cl_sptag": "Suzushiro Nagisa",
+      "name_parent": "Anime",
+      "total": 1
+    }
+  ]
+}

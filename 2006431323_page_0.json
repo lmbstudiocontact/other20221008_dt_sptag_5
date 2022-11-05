@@ -6,9 +6,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1281591355",
+  "hc_lt_data_img": "568590293",
   "hc_lt_nortag": "2121310937",
-  "hc_lt_sptag": "-79248394",
+  "hc_lt_sptag": "-1271926105",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-22667222",
-      "hc_lt_id_sptag": "2005753365",
+      "hc_lt_id_sptag": "1468972829",
       "id_img": "DeathNote_922263_crop2608_1163428641",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1YvmraCPWReveoqNhoKmlG+f0A5u87IahLMXMoogpPJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1YvmraCPWReveoqNhoKmlcxIzT2H/1rXdKA0Mmnemo5Vy4706IhQgSYlgwrgVRHU=",
@@ -34,7 +34,8 @@
       "lt_id_sptag": [
         "2006431323",
         "2080340491",
-        "-135098271"
+        "-135098271",
+        "1728965817"
       ]
     }
   ],
@@ -53,6 +54,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "2080340491",
       "name_cl_sptag": "L Death Note",

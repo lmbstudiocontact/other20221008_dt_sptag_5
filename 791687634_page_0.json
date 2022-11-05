@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1712704756",
+  "hc_lt_data_img": "1717921322",
   "hc_lt_nortag": "-1174439120",
-  "hc_lt_sptag": "189753006",
+  "hc_lt_sptag": "-663333365",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,21 +19,22 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "832192310",
-      "hc_lt_id_sptag": "-1273392122",
-      "id_img": "DarlingintheFranXX_902078_crop2608_-1366761363",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMiPuExjwtD96rmUorxQu5MCYZBKrLdt85RJIBnrymd5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMiPuExjwtD96rmUorxQu5sxLfjm7jBI1MgC0A3zc+b5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "2088298147",
+      "hc_lt_id_sptag": "1924407350",
+      "id_img": "FateZero_834578_crop2608_475087290",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTLG6cAwnr1kqpod2P05zSDREOrksVghUITdVOJrom4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTLG6cAwnr1kqpod2P05zS5xXjS5HEQwcCjL6HYHxgbZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-1575827177",
-        "416018215"
+        "-467032699",
+        "-1895834835"
       ],
       "lt_id_sptag": [
-        "14592008",
-        "22129571",
+        "-467032699",
+        "1956034203",
+        "-1216236529",
         "791687634"
       ]
     },
@@ -103,21 +104,21 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2088298147",
-      "hc_lt_id_sptag": "-562522877",
-      "id_img": "FateZero_834578_crop2608_475087290",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTLG6cAwnr1kqpod2P05zSDREOrksVghUITdVOJrom4ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTLG6cAwnr1kqpod2P05zS5xXjS5HEQwcCjL6HYHxgbZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "832192310",
+      "hc_lt_id_sptag": "-1273392122",
+      "id_img": "DarlingintheFranXX_902078_crop2608_-1366761363",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMiPuExjwtD96rmUorxQu5MCYZBKrLdt85RJIBnrymd5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifMiPuExjwtD96rmUorxQu5sxLfjm7jBI1MgC0A3zc+b5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-467032699",
-        "-1895834835"
+        "-1575827177",
+        "416018215"
       ],
       "lt_id_sptag": [
-        "1956034203",
-        "-1216236529",
+        "14592008",
+        "22129571",
         "791687634"
       ]
     }
@@ -166,6 +167,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "325835566",

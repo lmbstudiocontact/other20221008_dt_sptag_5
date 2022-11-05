@@ -6,9 +6,9 @@
   "total_img": 16,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "982081774",
+  "hc_lt_data_img": "1675505527",
   "hc_lt_nortag": "1342768742",
-  "hc_lt_sptag": "-640634630",
+  "hc_lt_sptag": "-334471765",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -21,32 +21,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1303248386",
       "hc_lt_id_sptag": "-1851661312",
-      "id_img": "SteinsGate_165164_crop2608_1531191867",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoK9gAZkXG3MKwA7LJrpZU5pFDazO3SlfvdXH9t0Zr85Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoK9gAZkXG3MKwA7LJrpZUNGFWcpcWtV30W6IgAHhhw5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "2034326638"
-      ],
-      "lt_id_sptag": [
-        "1380496154",
-        "-3777662",
-        "-1498190072",
-        "1637479355",
-        "-1102714022",
-        "973934500",
-        "-558422782"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1303248386",
-      "hc_lt_id_sptag": "-1851661312",
-      "id_img": "SteinsGate_165164_crop2608_1643598519",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbxkj71aMmMDq6GwiwzWK3HlfL1/Nvdqix0MCnDuuTiZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbxkj71aMmMDq6GwiwzWK3jCHQZcKntTBAqRA4cWKrNZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "SteinsGate_165164_crop2608_1796693710",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRsRYHPn+Njs4p4CFfgYBQ+pW/qMZiLFyf4Y6WzCUsTJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRsRYHPn+Njs4p4CFfgYBQ93rDaL8ed2pv0/KaenQpKpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -91,6 +68,29 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1303248386",
+      "hc_lt_id_sptag": "-1851661312",
+      "id_img": "SteinsGate_165164_crop2608_1531191867",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoK9gAZkXG3MKwA7LJrpZU5pFDazO3SlfvdXH9t0Zr85Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoK9gAZkXG3MKwA7LJrpZUNGFWcpcWtV30W6IgAHhhw5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2034326638"
+      ],
+      "lt_id_sptag": [
+        "1380496154",
+        "-3777662",
+        "-1498190072",
+        "1637479355",
+        "-1102714022",
+        "973934500",
+        "-558422782"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "614925984",
       "hc_lt_id_sptag": "-1945298286",
       "id_img": "SteinsGate_344981_crop2608_92378715",
@@ -110,6 +110,71 @@
         "1637479355",
         "-260062140",
         "-1823594757"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "508098898",
+      "hc_lt_id_sptag": "1468553203",
+      "id_img": "SteinsGate_795069_crop2608_1852783786",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmiMXUyP3g3PTuKgINwlk5PrFzF1E0Sv0WhRXwf33n75Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmiMXUyP3g3PTuKgINwlk5gNz/PcyrHg5/cTTnuU8VJpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "2034326638"
+      ],
+      "lt_id_sptag": [
+        "1728965817",
+        "1637479355",
+        "-558422782"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "614925984",
+      "hc_lt_id_sptag": "2110475246",
+      "id_img": "SteinsGate_165205_crop2608_-1134676157",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifehOpGcQ12VjB9VlkiNKBNfVgJXq7VMjUYGgqYuDdvCJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifehOpGcQ12VjB9VlkiNKBNQfGneC9okCl4sbUyLqClNpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2034326638",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1937610099",
+        "1755521698",
+        "-353024394",
+        "1637479355",
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1303248386",
+      "hc_lt_id_sptag": "1341420704",
+      "id_img": "SteinsGate_769135_crop2608_-709636952",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDL03Pgqlk6hba97NAEIfofcgiztqGVZYh+XnMkmK7NJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDL03Pgqlk6hba97NAEIfoelbGjfK7g28OhwWAbNwvi5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2034326638"
+      ],
+      "lt_id_sptag": [
+        "1380496154",
+        "-3777662",
+        "-1498190072",
+        "1637479355",
+        "-1102714022",
+        "-558422782"
       ]
     },
     {
@@ -134,25 +199,6 @@
         "-1102714022",
         "1805450778",
         "973934500",
-        "-558422782"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "508098898",
-      "hc_lt_id_sptag": "348383555",
-      "id_img": "SteinsGate_795069_crop2608_1852783786",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmiMXUyP3g3PTuKgINwlk5PrFzF1E0Sv0WhRXwf33n75Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmiMXUyP3g3PTuKgINwlk5gNz/PcyrHg5/cTTnuU8VJpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "2034326638"
-      ],
-      "lt_id_sptag": [
-        "1637479355",
         "-558422782"
       ]
     },
@@ -205,59 +251,11 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "614925984",
-      "hc_lt_id_sptag": "917845722",
-      "id_img": "SteinsGate_862296_crop2608_202482839",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJZCYl54B/Bv66xaQ0vtK/e5bwU+UEqFj5YVU+teMso5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJZCYl54B/Bv66xaQ0vtK/ZKdBzuXWUYjTFw50c31vTpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "2034326638",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1216236529",
-        "-1937610099",
-        "1755521698",
-        "-353024394",
-        "680065126",
-        "1637479355",
-        "-1823594757",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "614925984",
-      "hc_lt_id_sptag": "2110475246",
-      "id_img": "SteinsGate_165205_crop2608_-1134676157",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifehOpGcQ12VjB9VlkiNKBNfVgJXq7VMjUYGgqYuDdvCJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifehOpGcQ12VjB9VlkiNKBNQfGneC9okCl4sbUyLqClNpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "2034326638",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1937610099",
-        "1755521698",
-        "-353024394",
-        "1637479355",
-        "-1823594757",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1303248386",
       "hc_lt_id_sptag": "1341420704",
-      "id_img": "SteinsGate_769135_crop2608_-1870888555",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDcSUIbBjuz6XLL52AE5OwY2bU3cRxRLw43z6pLaYpKpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDcSUIbBjuz6XLL52AE5OwL1t1i6IMk1FFIL3CskL/w5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "SteinsGate_769135_crop2608_1256759325",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifU9wNLMjCPtOQiEe32FtHzpAfman+Ysul96FF4i7S74pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifU9wNLMjCPtOQiEe32FtHz6B2yamgnG3Hql+ks1Q5BX5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -275,34 +273,11 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "614925984",
-      "hc_lt_id_sptag": "2110475246",
-      "id_img": "SteinsGate_165209_crop2608_600563783",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF76khTgmsvZLVdOAYiIYpBaNkMjkMexX6EnnRtkEMV5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF76khTgmsvZLVdOAYiIYpVCg6VD+boGJ554bSCpDWTpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "2034326638",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1937610099",
-        "1755521698",
-        "-353024394",
-        "1637479355",
-        "-1823594757",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1303248386",
       "hc_lt_id_sptag": "1341420704",
-      "id_img": "SteinsGate_769135_crop2608_1256759325",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifU9wNLMjCPtOQiEe32FtHzpAfman+Ysul96FF4i7S74pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifU9wNLMjCPtOQiEe32FtHz6B2yamgnG3Hql+ks1Q5BX5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "SteinsGate_769135_crop2608_-1870888555",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDcSUIbBjuz6XLL52AE5OwY2bU3cRxRLw43z6pLaYpKpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDcSUIbBjuz6XLL52AE5OwL1t1i6IMk1FFIL3CskL/w5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -345,33 +320,59 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1303248386",
-      "hc_lt_id_sptag": "1341420704",
-      "id_img": "SteinsGate_769135_crop2608_-709636952",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDL03Pgqlk6hba97NAEIfofcgiztqGVZYh+XnMkmK7NJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDL03Pgqlk6hba97NAEIfoelbGjfK7g28OhwWAbNwvi5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "614925984",
+      "hc_lt_id_sptag": "2110475246",
+      "id_img": "SteinsGate_165209_crop2608_600563783",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF76khTgmsvZLVdOAYiIYpBaNkMjkMexX6EnnRtkEMV5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF76khTgmsvZLVdOAYiIYpVCg6VD+boGJ554bSCpDWTpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "2034326638"
+        "2034326638",
+        "-1182628656"
       ],
       "lt_id_sptag": [
-        "1380496154",
-        "-3777662",
-        "-1498190072",
+        "-1937610099",
+        "1755521698",
+        "-353024394",
         "1637479355",
-        "-1102714022",
-        "-558422782"
+        "-1823594757",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "614925984",
+      "hc_lt_id_sptag": "917845722",
+      "id_img": "SteinsGate_862296_crop2608_202482839",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJZCYl54B/Bv66xaQ0vtK/e5bwU+UEqFj5YVU+teMso5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJZCYl54B/Bv66xaQ0vtK/ZKdBzuXWUYjTFw50c31vTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "2034326638",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1216236529",
+        "-1937610099",
+        "1755521698",
+        "-353024394",
+        "680065126",
+        "1637479355",
+        "-1823594757",
+        "1078827483"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1303248386",
       "hc_lt_id_sptag": "-1851661312",
-      "id_img": "SteinsGate_165164_crop2608_1796693710",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRsRYHPn+Njs4p4CFfgYBQ+pW/qMZiLFyf4Y6WzCUsTJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRsRYHPn+Njs4p4CFfgYBQ93rDaL8ed2pv0/KaenQpKpVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "SteinsGate_165164_crop2608_1643598519",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbxkj71aMmMDq6GwiwzWK3HlfL1/Nvdqix0MCnDuuTiZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbxkj71aMmMDq6GwiwzWK3jCHQZcKntTBAqRA4cWKrNZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -410,6 +411,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "-1498190072",
       "name_cl_sptag": "Faris Nyannyan",

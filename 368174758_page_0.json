@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "88904949",
+  "hc_lt_data_img": "-2049736185",
   "hc_lt_nortag": "-269751871",
-  "hc_lt_sptag": "-498156587",
+  "hc_lt_sptag": "-1972723490",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,26 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1472176098",
-      "hc_lt_id_sptag": "428679505",
-      "id_img": "FateApocrypha_915503_crop2608_-927260359",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTycEp2YN5TxN0k6ZAg+kMYPBDPm19Pm0ys+Ag0BLjZZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTycEp2YN5TxN0k6ZAg+kMk6oefeJ2qdVpleTSvq3F45Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-907452212",
-        "1728965817"
-      ],
-      "lt_id_sptag": [
-        "1042267778",
-        "1972361903",
-        "368174758"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-2023405074",
@@ -60,6 +40,27 @@
         "368174758",
         "1078827483",
         "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1472176098",
+      "hc_lt_id_sptag": "992728449",
+      "id_img": "FateApocrypha_915503_crop2608_-927260359",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTycEp2YN5TxN0k6ZAg+kMYPBDPm19Pm0ys+Ag0BLjZZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTycEp2YN5TxN0k6ZAg+kMk6oefeJ2qdVpleTSvq3F45Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-907452212",
+        "1728965817"
+      ],
+      "lt_id_sptag": [
+        "1042267778",
+        "1728965817",
+        "1972361903",
+        "368174758"
       ]
     }
   ],
@@ -89,6 +90,12 @@
       "name_cl_sptag": "Assassin of Red FateApocrypha",
       "name_parent": "Anime",
       "total": 10
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "491824726",

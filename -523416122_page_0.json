@@ -6,9 +6,9 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "843975658",
+  "hc_lt_data_img": "1449342006",
   "hc_lt_nortag": "-2004354449",
-  "hc_lt_sptag": "-586588767",
+  "hc_lt_sptag": "1185399247",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,6 +17,27 @@
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1989548986",
+      "hc_lt_id_sptag": "1161771069",
+      "id_img": "TwinStarExorcists_699344_crop2608_115305605",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictjdkQl6jm9nlYgnLtgChqJNDo1WaJoINfqSpxzbsE05Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictjdkQl6jm9nlYgnLtgChq1ZzWR7H9KDQ1fWC5P8KjFJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-47382375"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1487231242",
+        "51462271",
+        "-523416122"
+      ]
+    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-512808877",
@@ -34,6 +55,28 @@
         "1487231242",
         "-1006960162",
         "51462271",
+        "-523416122"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1307958365",
+      "hc_lt_id_sptag": "-847845700",
+      "id_img": "TwinStarExorcists_699339_crop2608_83284888",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekBrVFuRelio6LCbOQ2fe7I75c81nrdEn3pFux0NpsaZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekBrVFuRelio6LCbOQ2fe7JftrtC/u2IukBD+5KVaH3JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-47382375"
+      ],
+      "lt_id_sptag": [
+        "1487231242",
+        "-1006960162",
+        "51462271",
+        "1728965817",
         "-523416122"
       ]
     },
@@ -59,6 +102,28 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1307958365",
+      "hc_lt_id_sptag": "-847845700",
+      "id_img": "TwinStarExorcists_699318_crop2608_-403198567",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOkRblX5/EBcmTc+jLRdHQ59x924idA+6KrcvYW6owHZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOkRblX5/EBcmTc+jLRdHQ1KV5XHmbKyoxSVdN3cH9HJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-47382375"
+      ],
+      "lt_id_sptag": [
+        "1487231242",
+        "-1006960162",
+        "51462271",
+        "1728965817",
+        "-523416122"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1216187437",
       "hc_lt_id_sptag": "1933941227",
       "id_img": "TwinStarExorcists_699344_crop2608_1060174816",
@@ -79,68 +144,6 @@
         "-523416122",
         "376240968",
         "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1307958365",
-      "hc_lt_id_sptag": "-325543404",
-      "id_img": "TwinStarExorcists_699318_crop2608_-403198567",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOkRblX5/EBcmTc+jLRdHQ59x924idA+6KrcvYW6owHZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOkRblX5/EBcmTc+jLRdHQ1KV5XHmbKyoxSVdN3cH9HJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-47382375"
-      ],
-      "lt_id_sptag": [
-        "1487231242",
-        "-1006960162",
-        "51462271",
-        "-523416122"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1307958365",
-      "hc_lt_id_sptag": "-325543404",
-      "id_img": "TwinStarExorcists_699339_crop2608_83284888",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekBrVFuRelio6LCbOQ2fe7I75c81nrdEn3pFux0NpsaZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekBrVFuRelio6LCbOQ2fe7JftrtC/u2IukBD+5KVaH3JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-47382375"
-      ],
-      "lt_id_sptag": [
-        "1487231242",
-        "-1006960162",
-        "51462271",
-        "-523416122"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1989548986",
-      "hc_lt_id_sptag": "-1325159158",
-      "id_img": "TwinStarExorcists_699344_crop2608_115305605",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictjdkQl6jm9nlYgnLtgChqJNDo1WaJoINfqSpxzbsE05Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiictjdkQl6jm9nlYgnLtgChq1ZzWR7H9KDQ1fWC5P8KjFJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-47382375"
-      ],
-      "lt_id_sptag": [
-        "1487231242",
-        "51462271",
-        "-523416122"
       ]
     }
   ],
@@ -176,6 +179,18 @@
       "name_cl_sptag": "Benio Adashino",
       "name_parent": "Anime",
       "total": 7
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "376240968",

@@ -6,9 +6,9 @@
   "total_img": 12,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1874368571",
+  "hc_lt_data_img": "820350470",
   "hc_lt_nortag": "1792835216",
-  "hc_lt_sptag": "589290384",
+  "hc_lt_sptag": "-2062764077",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,15 +19,16 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2093908596",
-      "hc_lt_id_sptag": "540671586",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_795604_crop2608_1956612378",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqgYfhK9yIf2DR3nbgX4N+IrnQH3QCVTmBF+MghcCav5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqgYfhK9yIf2DR3nbgX4N+Ga4KoqDVPO8OGieDDXO+EJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "1298759108",
+      "hc_lt_id_sptag": "1360924433",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_790727_crop2608_1844533102",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTpiszzNwXA95Zid135k3+cg6zg8t5gfg9UTr6k/C7YJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTpiszzNwXA95Zid135k3+6vlsTEYBE2svNxadQ1rI2pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
+        "1728965817",
         "631984534"
       ],
       "lt_id_sptag": [
@@ -36,26 +37,8 @@
         "-1384100878",
         "1742438435",
         "353819882",
-        "-1374969364",
+        "1728965817",
         "1709856671"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2093908596",
-      "hc_lt_id_sptag": "1299510676",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_798191_crop2608_-1101150221",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNyh5roNr4demXIBS2lqeAvU5a4SoAxRYF5mH7BDOmWZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNyh5roNr4demXIBS2lqeAnuxS6Yye8FF7d1h/HT8f3JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "631984534"
-      ],
-      "lt_id_sptag": [
-        "2014312887",
-        "-639693217"
       ]
     },
     {
@@ -108,164 +91,11 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-644411282",
-      "hc_lt_id_sptag": "2016344414",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_790727_crop2608_-169458495",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTOHJUngEQQ/vTCItI+1F6aEyZPqsoId7QI0oCaVxxmJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTOHJUngEQQ/vTCItI+1F6mDpMRRRASEGHZW/SdFruC5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "631984534",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "2014312887",
-        "1545739930",
-        "1766911251",
-        "-1384100878",
-        "750914149",
-        "1742438435",
-        "353819882",
-        "-353024394",
-        "1709856671",
-        "1813151526",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2093908596",
       "hc_lt_id_sptag": "-296649714",
       "id_img": "KonoSubaGodsblessingonthiswonderfulworld_854584_crop2608_-905250803",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMcFo4yHIxdVaKFqNTH0A2qbkT2kx8/glgWv3yeCS4upVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMcFo4yHIxdVaKFqNTH0A2fZXbNaJt0yUFgfLtB+rH8JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "631984534"
-      ],
-      "lt_id_sptag": [
-        "2014312887",
-        "1766911251",
-        "-1384100878",
-        "1742438435",
-        "2002918120",
-        "-1374969364",
-        "1709856671"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-644411282",
-      "hc_lt_id_sptag": "1682648241",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_798221_crop2608_55053335",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGqMbIBHI32Agd7Cqm3e82PQto2XOYgmnJ2gxM1U/2rpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGqMbIBHI32Agd7Cqm3e82ZyjMDseXf7Vrq8q5f1/DZ5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "631984534",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "2014312887",
-        "1545739930",
-        "1742438435",
-        "-353024394",
-        "1813151526",
-        "-1882261033",
-        "-639693217",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1298759108",
-      "hc_lt_id_sptag": "-1094800375",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_790727_crop2608_1844533102",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTpiszzNwXA95Zid135k3+cg6zg8t5gfg9UTr6k/C7YJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTpiszzNwXA95Zid135k3+6vlsTEYBE2svNxadQ1rI2pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "631984534"
-      ],
-      "lt_id_sptag": [
-        "2014312887",
-        "1766911251",
-        "-1384100878",
-        "1742438435",
-        "353819882",
-        "1709856671"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-644411282",
-      "hc_lt_id_sptag": "-1839844155",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_782972_crop2608_1087245667",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGhAtC0rW/cUQFCdfOxskN7EXoxSIb/BoXRNGPu8BS9pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGhAtC0rW/cUQFCdfOxskNGOxGnfc4fZN8BsNc8jKIHZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "631984534",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "2014312887",
-        "-353024394",
-        "1568092380",
-        "-1353196196",
-        "-1882261033",
-        "-639693217",
-        "491824726"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-644411282",
-      "hc_lt_id_sptag": "63419366",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_790727_crop2608_822422308",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsur2JPku28tdb3+RmNdI1KVcfOQMRvFxAAXQC40WYX5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsur2JPku28tdb3+RmNdI1QJboGQCwJSA4kCaT0KBTa5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "631984534",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "2014312887",
-        "1766911251",
-        "-1384100878",
-        "750914149",
-        "1742438435",
-        "353819882",
-        "1755521698",
-        "-353024394",
-        "376240968",
-        "1709856671",
-        "1813151526",
-        "-1165766878",
-        "1078827483"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2093908596",
-      "hc_lt_id_sptag": "-296649714",
-      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_854584_crop2608_-877238342",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsY0fmYjhHU7xsNGZOYaJaorIX404ZFoAxd90YnkifIpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsY0fmYjhHU7xsNGZOYaJaxOZ15wHXyR4hCF/YL2fb2ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -304,6 +134,177 @@
         "-1374969364",
         "1709856671"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-644411282",
+      "hc_lt_id_sptag": "63419366",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_790727_crop2608_822422308",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsur2JPku28tdb3+RmNdI1KVcfOQMRvFxAAXQC40WYX5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsur2JPku28tdb3+RmNdI1QJboGQCwJSA4kCaT0KBTa5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "631984534",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2014312887",
+        "1766911251",
+        "-1384100878",
+        "750914149",
+        "1742438435",
+        "353819882",
+        "1755521698",
+        "-353024394",
+        "376240968",
+        "1709856671",
+        "1813151526",
+        "-1165766878",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-644411282",
+      "hc_lt_id_sptag": "1682648241",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_798221_crop2608_55053335",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGqMbIBHI32Agd7Cqm3e82PQto2XOYgmnJ2gxM1U/2rpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGqMbIBHI32Agd7Cqm3e82ZyjMDseXf7Vrq8q5f1/DZ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "631984534",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2014312887",
+        "1545739930",
+        "1742438435",
+        "-353024394",
+        "1813151526",
+        "-1882261033",
+        "-639693217",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "2093908596",
+      "hc_lt_id_sptag": "540671586",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_795604_crop2608_1956612378",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqgYfhK9yIf2DR3nbgX4N+IrnQH3QCVTmBF+MghcCav5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqgYfhK9yIf2DR3nbgX4N+Ga4KoqDVPO8OGieDDXO+EJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "631984534"
+      ],
+      "lt_id_sptag": [
+        "2014312887",
+        "1766911251",
+        "-1384100878",
+        "1742438435",
+        "353819882",
+        "-1374969364",
+        "1709856671"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-644411282",
+      "hc_lt_id_sptag": "-1839844155",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_782972_crop2608_1087245667",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGhAtC0rW/cUQFCdfOxskN7EXoxSIb/BoXRNGPu8BS9pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGhAtC0rW/cUQFCdfOxskNGOxGnfc4fZN8BsNc8jKIHZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "631984534",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2014312887",
+        "-353024394",
+        "1568092380",
+        "-1353196196",
+        "-1882261033",
+        "-639693217",
+        "491824726"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "2093908596",
+      "hc_lt_id_sptag": "-296649714",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_854584_crop2608_-877238342",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsY0fmYjhHU7xsNGZOYaJaorIX404ZFoAxd90YnkifIpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsY0fmYjhHU7xsNGZOYaJaxOZ15wHXyR4hCF/YL2fb2ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "631984534"
+      ],
+      "lt_id_sptag": [
+        "2014312887",
+        "1766911251",
+        "-1384100878",
+        "1742438435",
+        "2002918120",
+        "-1374969364",
+        "1709856671"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-644411282",
+      "hc_lt_id_sptag": "2016344414",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_790727_crop2608_-169458495",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTOHJUngEQQ/vTCItI+1F6aEyZPqsoId7QI0oCaVxxmJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTOHJUngEQQ/vTCItI+1F6mDpMRRRASEGHZW/SdFruC5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "631984534",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2014312887",
+        "1545739930",
+        "1766911251",
+        "-1384100878",
+        "750914149",
+        "1742438435",
+        "353819882",
+        "-353024394",
+        "1709856671",
+        "1813151526",
+        "1078827483"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "2093908596",
+      "hc_lt_id_sptag": "1299510676",
+      "id_img": "KonoSubaGodsblessingonthiswonderfulworld_798191_crop2608_-1101150221",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNyh5roNr4demXIBS2lqeAvU5a4SoAxRYF5mH7BDOmWZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifNyh5roNr4demXIBS2lqeAnuxS6Yye8FF7d1h/HT8f3JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "631984534"
+      ],
+      "lt_id_sptag": [
+        "2014312887",
+        "-639693217"
+      ]
     }
   ],
   "lt_nortag": [
@@ -332,6 +333,12 @@
       "name_cl_sptag": "Aqua KonoSuba",
       "name_parent": "Anime",
       "total": 92
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-1384100878",

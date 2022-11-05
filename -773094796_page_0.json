@@ -6,9 +6,9 @@
   "total_img": 8,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "309738518",
+  "hc_lt_data_img": "951941354",
   "hc_lt_nortag": "744349745",
-  "hc_lt_sptag": "485534882",
+  "hc_lt_sptag": "1421698066",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,32 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-2022510395",
-      "hc_lt_id_sptag": "984632661",
-      "id_img": "Crossover_707693_crop2608_289549538",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSdubL+kRFoazVGyWMEa5axVnZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSduNy1uFvmn/p1psBa1qyVsu5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1213914829"
-      ],
-      "lt_id_sptag": [
-        "-622363561",
-        "882564636",
-        "734093536",
-        "1229027440",
-        "-1898766543",
-        "-773094796",
-        "332916507",
-        "65354341",
-        "840666661",
-        "442934388"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-2022510395",
@@ -72,72 +46,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1060699655",
-      "hc_lt_id_sptag": "1752425900",
-      "id_img": "TengenToppaGurrenLagann_54658_crop2608_1743805798",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZzjuPrqktH2wQ/jg2yw7o3pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZNZmwTUS4qjKnXSsWLAsHs5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "516493418"
-      ],
-      "lt_id_sptag": [
-        "227556748",
-        "-773094796",
-        "276087953",
-        "-1405569620"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-379109034",
-      "hc_lt_id_sptag": "-1942265139",
-      "id_img": "TengenToppaGurrenLagann_851220_crop2608_-1191485964",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCi8eIB+LasX7FNpStZN/FkmftzD6QCzJ3bGKHZ+aObZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCi8eIB+LasX7FNpStZN/FU0SomzNKaR+xObqRWN3bWZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "516493418"
-      ],
-      "lt_id_sptag": [
-        "1229027440",
-        "-773094796"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1060699655",
-      "hc_lt_id_sptag": "683947971",
-      "id_img": "TengenToppaGurrenLagann_133292_crop2608_806447026",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplIT8kG/Zo8alH48Z/TvzdI5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplX727zMgpyvXMzwkNvmdHdJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "516493418"
-      ],
-      "lt_id_sptag": [
-        "-1472410809",
-        "1182360547",
-        "325835566",
-        "489705754",
-        "1577161149",
-        "-773094796",
-        "-3839867",
-        "124960239"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1060699655",
-      "hc_lt_id_sptag": "241478602",
+      "hc_lt_id_sptag": "1873750135",
       "id_img": "TengenToppaGurrenLagann_60031_crop2608_120872736",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0mQK/+dnp5vvhYDDi4MIf6tZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+VCJ4DLu+cv6UFl1nIF0m8nJArweXkDMklrtbkCMld5Vy4706IhQgSYlgwrgVRHU=",
@@ -149,6 +58,7 @@
         "516493418"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "218089402",
         "1229027440",
         "-1725912949",
@@ -162,7 +72,81 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1060699655",
-      "hc_lt_id_sptag": "-67141618",
+      "hc_lt_id_sptag": "-1978747792",
+      "id_img": "TengenToppaGurrenLagann_133292_crop2608_806447026",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplIT8kG/Zo8alH48Z/TvzdI5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5F8xCcr0jkRalQm0AspplX727zMgpyvXMzwkNvmdHdJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "516493418"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-1472410809",
+        "1182360547",
+        "325835566",
+        "489705754",
+        "1577161149",
+        "-773094796",
+        "-3839867",
+        "124960239"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-2022510395",
+      "hc_lt_id_sptag": "984632661",
+      "id_img": "Crossover_707693_crop2608_-2128197853",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxnmI11qICYGSBAL+yccdPWZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxcVWMPA6cH16gu/QGDFyVyJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-622363561",
+        "882564636",
+        "734093536",
+        "1229027440",
+        "-1898766543",
+        "-773094796",
+        "332916507",
+        "65354341",
+        "840666661",
+        "442934388"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1060699655",
+      "hc_lt_id_sptag": "1537851609",
+      "id_img": "TengenToppaGurrenLagann_54658_crop2608_1743805798",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZzjuPrqktH2wQ/jg2yw7o3pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg/omJWyy7zlh+8nQKGASZNZmwTUS4qjKnXSsWLAsHs5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "516493418"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "227556748",
+        "-773094796",
+        "276087953",
+        "-1405569620"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1060699655",
+      "hc_lt_id_sptag": "-1543881727",
       "id_img": "TengenToppaGurrenLagann_851236_crop2608_-1246643879",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqPycHqY/lk+QBRV5p5XAsHBGPYRvw63PxNpDTsJmk9pVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqPycHqY/lk+QBRV5p5XAsKKsFdjepZeQtyrYuGZqyfJVy4706IhQgSYlgwrgVRHU=",
@@ -174,6 +158,27 @@
         "516493418"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "-773094796"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-379109034",
+      "hc_lt_id_sptag": "-822095491",
+      "id_img": "TengenToppaGurrenLagann_851220_crop2608_-1191485964",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCi8eIB+LasX7FNpStZN/FkmftzD6QCzJ3bGKHZ+aObZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCi8eIB+LasX7FNpStZN/FU0SomzNKaR+xObqRWN3bWZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "516493418"
+      ],
+      "lt_id_sptag": [
+        "1728965817",
+        "1229027440",
         "-773094796"
       ]
     },
@@ -181,9 +186,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-2022510395",
       "hc_lt_id_sptag": "984632661",
-      "id_img": "Crossover_707693_crop2608_-2128197853",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxnmI11qICYGSBAL+yccdPWZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidyC2ou5MzT8D48/P6BiMGxcVWMPA6cH16gu/QGDFyVyJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "Crossover_707693_crop2608_289549538",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSdubL+kRFoazVGyWMEa5axVnZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvExZi8dC2wL+Nr+1KTSduNy1uFvmn/p1psBa1qyVsu5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -256,6 +261,12 @@
       "total": 51
     },
     {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
       "id_sptag": "227556748",
       "name_cl_sptag": "Cape",
       "name_parent": "Anime",
@@ -266,6 +277,12 @@
       "name_cl_sptag": "Cloud",
       "name_parent": "Anime",
       "total": 163
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-1405569620",

@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-664270667",
+  "hc_lt_data_img": "2039386072",
   "hc_lt_nortag": "1541372204",
-  "hc_lt_sptag": "828778356",
+  "hc_lt_sptag": "-1586395875",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,27 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1971765911",
-      "hc_lt_id_sptag": "-1978127694",
-      "id_img": "OnePiece_932963_crop2608_1797764167",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUklcICrx02ieXALDTSUiSylem/mkn7I1EdbZ/sVzGRJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUklcICrx02ieXALDTSUiSIGv23qM3OT4Wy30Am6frI5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1166409139",
-        "-467032699"
-      ],
-      "lt_id_sptag": [
-        "-976770768",
-        "1533791211",
-        "-1619032539"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1971765911",
-      "hc_lt_id_sptag": "204246700",
+      "hc_lt_id_sptag": "1140924617",
       "id_img": "OnePiece_721547_crop2608_1800026347",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYE5dFie+2gkSUoJcQ37oy50pVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSGpBhi2OEnIODE6go9LYEa8rbshfc7c1kWrcua7EgEJVy4706IhQgSYlgwrgVRHU=",
@@ -53,11 +33,33 @@
       ],
       "lt_id_sptag": [
         "1999476299",
+        "-467032699",
         "1492662970",
         "-1619032539",
         "2137211747",
         "-1612103380",
         "1548903087"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1971765911",
+      "hc_lt_id_sptag": "508802533",
+      "id_img": "OnePiece_932963_crop2608_1797764167",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUklcICrx02ieXALDTSUiSylem/mkn7I1EdbZ/sVzGRJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUklcICrx02ieXALDTSUiSIGv23qM3OT4Wy30Am6frI5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1166409139",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-976770768",
+        "1533791211",
+        "-1619032539"
       ]
     }
   ],
@@ -81,6 +83,12 @@
       "name_cl_sptag": "Blonde",
       "name_parent": "Anime",
       "total": 908
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "1492662970",

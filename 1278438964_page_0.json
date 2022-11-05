@@ -20,44 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1184689685",
-      "hc_lt_id_sptag": "-704989471",
-      "id_img": "2003-Volvo-V70-R-V5-1536_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifewiLrupGdPrensfv0ePTu5coHaXTxipiC/sQhLysKMpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifewiLrupGdPrensfv0ePTuHQI/8bTbCgVPk0gGafanLpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-94163419"
-      ],
-      "lt_id_sptag": [
-        "1278438964",
-        "-671196946",
-        "-1979215430"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1184689685",
-      "hc_lt_id_sptag": "-534917968",
-      "id_img": "1997-Volvo-V70-R-AWD-V2-1536_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEurjxGUJaf6tUFKB1cobhotc/VlcBZAZcUQrDfdmvtpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEurjxGUJaf6tUFKB1cobhYF23tzDGrtl40eCZnIiqc5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-94163419"
-      ],
-      "lt_id_sptag": [
-        "1278438964",
-        "231896511",
-        "-81656431"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1184689685",
       "hc_lt_id_sptag": "-209732565",
       "id_img": "1997-Volvo-V70-R-AWD-V4-1536_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidpT5ozzQ+l6V98AOd/Tx3NJVVRGhYQ0TNn4XXu0sTl/ZVy4706IhQgSYlgwrgVRHU=",
@@ -96,25 +58,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1184689685",
-      "hc_lt_id_sptag": "-687282845",
-      "id_img": "2003-Volvo-V70-R-V3-1536_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkonX1urauIcb4AIcNeTPhyj1T4stde634YlcAFkh46ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkonX1urauIcb4AIcNeTPhqtAhsfLbPqdZAQkbyiwD+5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-94163419"
-      ],
-      "lt_id_sptag": [
-        "1278438964",
-        "-278169936",
-        "-1979215430"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1184689685",
       "hc_lt_id_sptag": "-923269589",
       "id_img": "2003-Volvo-V70-R-V6-1536_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5scpLysTu3EEmsYE8czcqyzl6l2827U9YkwOlMpW2oJVy4706IhQgSYlgwrgVRHU=",
@@ -128,6 +71,63 @@
       "lt_id_sptag": [
         "1278438964",
         "-867710451",
+        "-1979215430"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1184689685",
+      "hc_lt_id_sptag": "-704989471",
+      "id_img": "2003-Volvo-V70-R-V5-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifewiLrupGdPrensfv0ePTu5coHaXTxipiC/sQhLysKMpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifewiLrupGdPrensfv0ePTuHQI/8bTbCgVPk0gGafanLpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-94163419"
+      ],
+      "lt_id_sptag": [
+        "1278438964",
+        "-671196946",
+        "-1979215430"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1184689685",
+      "hc_lt_id_sptag": "-534917968",
+      "id_img": "1997-Volvo-V70-R-AWD-V2-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEurjxGUJaf6tUFKB1cobhotc/VlcBZAZcUQrDfdmvtpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEurjxGUJaf6tUFKB1cobhYF23tzDGrtl40eCZnIiqc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-94163419"
+      ],
+      "lt_id_sptag": [
+        "1278438964",
+        "231896511",
+        "-81656431"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1184689685",
+      "hc_lt_id_sptag": "-687282845",
+      "id_img": "2003-Volvo-V70-R-V3-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkonX1urauIcb4AIcNeTPhyj1T4stde634YlcAFkh46ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkonX1urauIcb4AIcNeTPhqtAhsfLbPqdZAQkbyiwD+5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-94163419"
+      ],
+      "lt_id_sptag": [
+        "1278438964",
+        "-278169936",
         "-1979215430"
       ]
     }

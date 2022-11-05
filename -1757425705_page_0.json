@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1623825877",
+  "hc_lt_data_img": "320565251",
   "hc_lt_nortag": "492732562",
-  "hc_lt_sptag": "1676524833",
+  "hc_lt_sptag": "-98486524",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -42,6 +42,26 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1433110098",
+      "hc_lt_id_sptag": "324225504",
+      "id_img": "Original_940617_crop2608_-2052664985",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIO7eoq38i6zJZl+GjbT/rBzX6GepB2RzeBHEIkrkdxJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIO7eoq38i6zJZl+GjbT/rr9dbAD6yvwEOfX8PD4XZ5JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-220048903",
+        "285041126",
+        "-1757425705"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1114397356",
       "hc_lt_id_sptag": "-2048718349",
       "id_img": "Original_916554_crop2608_-534883434",
@@ -62,25 +82,6 @@
         "1961606085",
         "1813151526",
         "-1309604406",
-        "-1757425705"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1433110098",
-      "hc_lt_id_sptag": "2132262573",
-      "id_img": "Original_940617_crop2608_-2052664985",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIO7eoq38i6zJZl+GjbT/rBzX6GepB2RzeBHEIkrkdxJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIO7eoq38i6zJZl+GjbT/rr9dbAD6yvwEOfX8PD4XZ5JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699"
-      ],
-      "lt_id_sptag": [
-        "-220048903",
-        "285041126",
         "-1757425705"
       ]
     }
@@ -112,6 +113,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "1961606085",
       "name_cl_sptag": "Coffee",

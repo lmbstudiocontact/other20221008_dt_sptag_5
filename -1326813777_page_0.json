@@ -58,25 +58,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "1184689685",
-      "hc_lt_id_sptag": "1699798372",
-      "id_img": "2017-Volvo-S90-V5-2000_crop_3_right",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgCqneXfctR48LPX3Xbb+O4iAFr7sp685gOxXuFqusYpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgCqneXfctR48LPX3Xbb+OLyjVMaf6DLllzcl1zBzbTpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-94163419"
-      ],
-      "lt_id_sptag": [
-        "-1946892195",
-        "837633701",
-        "-1326813777"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "1184689685",
       "hc_lt_id_sptag": "-1755677264",
       "id_img": "2017-Volvo-S90-V6-2000_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicBNS6i4WBWhu+eVTau0slSViYMToVba7eqWFu+oE4ozJVy4706IhQgSYlgwrgVRHU=",
@@ -90,6 +71,25 @@
       "lt_id_sptag": [
         "-1946892195",
         "641120196",
+        "-1326813777"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "1184689685",
+      "hc_lt_id_sptag": "1699798372",
+      "id_img": "2017-Volvo-S90-V5-2000_crop_3_right",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgCqneXfctR48LPX3Xbb+O4iAFr7sp685gOxXuFqusYpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgCqneXfctR48LPX3Xbb+OLyjVMaf6DLllzcl1zBzbTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-94163419"
+      ],
+      "lt_id_sptag": [
+        "-1946892195",
+        "837633701",
         "-1326813777"
       ]
     }

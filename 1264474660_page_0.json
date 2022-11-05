@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1308124398",
+  "hc_lt_data_img": "-2098325247",
   "hc_lt_nortag": "842880966",
-  "hc_lt_sptag": "-2032646880",
+  "hc_lt_sptag": "-1541325949",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,25 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "326641746",
-      "hc_lt_id_sptag": "-1148496067",
-      "id_img": "ToukenRanbu_805061_crop2608_-606036793",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOjLLZ3ufwKssLUhcTBHqcle/DVSP4TcwpOKzjkNxR35Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOjLLZ3ufwKssLUhcTBHqcmeeknNjOdxJGjfMauw/gdpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "903932837"
-      ],
-      "lt_id_sptag": [
-        "1264474660"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "326641746",
-      "hc_lt_id_sptag": "-1148496067",
+      "hc_lt_id_sptag": "1669731120",
       "id_img": "ToukenRanbu_744170_crop2608_1052163308",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidA8X7JN/0go6qaL2vFRz8CAD/TRH2k4UuJOAc5T6rkTJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidA8X7JN/0go6qaL2vFRz8ClDZq/NSdItBLiLsQONxjrZVy4706IhQgSYlgwrgVRHU=",
@@ -50,13 +32,14 @@
         "903932837"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1264474660"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "326641746",
-      "hc_lt_id_sptag": "-1148496067",
+      "hc_lt_id_sptag": "1669731120",
       "id_img": "ToukenRanbu_744170_crop2608_-1419895322",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF0kTxQEWxbelZTG5guWeGglvnt5ZYDjbWd+zVJzrstpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidF0kTxQEWxbelZTG5guWeGlLcIWbtpLpn4XoTWA5YAfJVy4706IhQgSYlgwrgVRHU=",
@@ -68,6 +51,26 @@
         "903932837"
       ],
       "lt_id_sptag": [
+        "-467032699",
+        "1264474660"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "326641746",
+      "hc_lt_id_sptag": "1669731120",
+      "id_img": "ToukenRanbu_805061_crop2608_-606036793",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOjLLZ3ufwKssLUhcTBHqcle/DVSP4TcwpOKzjkNxR35Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOjLLZ3ufwKssLUhcTBHqcmeeknNjOdxJGjfMauw/gdpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "903932837"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
         "1264474660"
       ]
     },
@@ -104,6 +107,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "1264474660",
       "name_cl_sptag": "Yamatonokami Yasusada",

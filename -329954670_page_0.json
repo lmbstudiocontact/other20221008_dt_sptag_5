@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1649486607",
+  "hc_lt_data_img": "-634671353",
   "hc_lt_nortag": "-1115645283",
-  "hc_lt_sptag": "1881258837",
+  "hc_lt_sptag": "1047245892",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1417899240",
-      "hc_lt_id_sptag": "-1496838840",
+      "hc_lt_id_sptag": "1718266078",
       "id_img": "WhenTheyCry_146299_crop2608_-1464202488",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSdiAAIsDCODz6lLP8FYk7N5zLXlLlkNO5RzhEhPX4EJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSdiAAIsDCODz6lLP8FYk7L9WTGE5QQUAR3hReocYB0pVy4706IhQgSYlgwrgVRHU=",
@@ -37,6 +37,7 @@
         "-167005105",
         "-329954670",
         "29436897",
+        "1728965817",
         "1352703642",
         "-1701713317",
         "749327982"
@@ -97,6 +98,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "2006013757",
       "name_cl_sptag": "Furude Hanyu",

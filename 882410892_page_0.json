@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1797623113",
+  "hc_lt_data_img": "1492010928",
   "hc_lt_nortag": "-1240934043",
-  "hc_lt_sptag": "-1532987113",
+  "hc_lt_sptag": "941937104",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "330210550",
-      "hc_lt_id_sptag": "-1287382345",
+      "hc_lt_id_sptag": "650749226",
       "id_img": "MyHeroAcademia_815297_crop2608_-1315809670",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMF4nZi6fMmCrtsQ9pfY4A0AH9/91CBOlL5H+o28eKhpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieMF4nZi6fMmCrtsQ9pfY4AQpWizKrlrpsPwVkgL7//zZVy4706IhQgSYlgwrgVRHU=",
@@ -32,6 +32,7 @@
         "720471728"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "1071690069",
         "882410892",
         "255859507",
@@ -42,7 +43,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2079012137",
-      "hc_lt_id_sptag": "-1217617875",
+      "hc_lt_id_sptag": "-1265081318",
       "id_img": "TokyoGhoul_596610_crop2608_-1275047371",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicA2Jbfn2Ujwu2GQSfe5+rsP3/NPYiipdYE1ITlm/5EcZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicA2Jbfn2Ujwu2GQSfe5+rscKXhQolChw9GIErkFpU8OJVy4706IhQgSYlgwrgVRHU=",
@@ -54,6 +55,7 @@
         "882178788"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-1666763806",
         "882410892",
         "-1176638482",
@@ -101,6 +103,12 @@
       "name_cl_sptag": "Boy Dark Black",
       "name_parent": "Anime",
       "total": 573
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-1176638482",

@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "2144457781",
+  "hc_lt_data_img": "-1059358529",
   "hc_lt_nortag": "1611628708",
-  "hc_lt_sptag": "1276924484",
+  "hc_lt_sptag": "-1393761855",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,72 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "795716792",
-      "hc_lt_id_sptag": "1691521384",
-      "id_img": "Crossover_860262_crop2608_1071604665",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFjYA0P1nmUbW/+pOccw4BH5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFy/e1Cmf0uugic+G7JDPbppVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1213914829"
-      ],
-      "lt_id_sptag": [
-        "-136018661",
-        "1605864645",
-        "-1583410095",
-        "-1136792657",
-        "1422444601"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "795716792",
-      "hc_lt_id_sptag": "1691521384",
-      "id_img": "Crossover_860262_crop2608_979251577",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezVwbjAjPyULbl986g9RcBYFggxv2ugQ0sqa/+XS3cHZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezVwbjAjPyULbl986g9RcBGvDdsi2DkCco8/wEENwDx5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1213914829"
-      ],
-      "lt_id_sptag": [
-        "-136018661",
-        "1605864645",
-        "-1583410095",
-        "-1136792657",
-        "1422444601"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "795716792",
-      "hc_lt_id_sptag": "1691521384",
-      "id_img": "Crossover_860262_crop2608_-1823988340",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHeIF3skXG/LUYOARFLv39EZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHErQDBIQhmhDuEBgck77045Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "1213914829"
-      ],
-      "lt_id_sptag": [
-        "-136018661",
-        "1605864645",
-        "-1583410095",
-        "-1136792657",
-        "1422444601"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1002912036",
@@ -99,6 +33,75 @@
       ],
       "lt_id_sptag": [
         "65354341",
+        "1422444601"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "795716792",
+      "hc_lt_id_sptag": "-665314341",
+      "id_img": "Crossover_860262_crop2608_1071604665",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFjYA0P1nmUbW/+pOccw4BH5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFJkOSAM/mJuRQz/bJOMuFy/e1Cmf0uugic+G7JDPbppVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-136018661",
+        "1605864645",
+        "-1583410095",
+        "-1136792657",
+        "1422444601"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "795716792",
+      "hc_lt_id_sptag": "-665314341",
+      "id_img": "Crossover_860262_crop2608_979251577",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezVwbjAjPyULbl986g9RcBYFggxv2ugQ0sqa/+XS3cHZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiezVwbjAjPyULbl986g9RcBGvDdsi2DkCco8/wEENwDx5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-136018661",
+        "1605864645",
+        "-1583410095",
+        "-1136792657",
+        "1422444601"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "795716792",
+      "hc_lt_id_sptag": "-665314341",
+      "id_img": "Crossover_860262_crop2608_-1823988340",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHeIF3skXG/LUYOARFLv39EZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifyaWiFcOcwA+DRc5hBLjZHErQDBIQhmhDuEBgck77045Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1213914829"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "-136018661",
+        "1605864645",
+        "-1583410095",
+        "-1136792657",
         "1422444601"
       ]
     }
@@ -124,6 +127,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
     {
       "id_sptag": "-1136792657",
       "name_cl_sptag": "Bulbasaur Pokemon",

@@ -48,10 +48,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1256181271",
-      "hc_lt_id_sptag": "1034916906",
-      "id_img": "KatawaShoujo_557762_crop2608_-144861248",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidToseBvUda6JX537p1FVFkVILcU4FhiCat3ws4NY7fzpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidToseBvUda6JX537p1FVFk95lvi7UZSs990uQ2apreVJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1997881320",
+      "id_img": "KatawaShoujo_903062_crop2608_1666794695",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKi+D7A6aYNwPn6zXnNmm17B+GsAfXCunEGTSXWHN/P5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKi+D7A6aYNwPn6zXnNmm14TQ/xSFQCoGtZLeGeYmoKpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -60,13 +60,16 @@
         "681078604"
       ],
       "lt_id_sptag": [
-        "-561045702",
         "-1230434216",
+        "-2120528956",
+        "117222074",
+        "-353024394",
         "-1686571485",
+        "431093437",
         "-1512721032",
-        "768898453",
+        "-1165766878",
         "-899599709",
-        "1410951528"
+        "1078827483"
       ]
     },
     {
@@ -100,10 +103,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1256181271",
-      "hc_lt_id_sptag": "-1997881320",
-      "id_img": "KatawaShoujo_903062_crop2608_1666794695",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKi+D7A6aYNwPn6zXnNmm17B+GsAfXCunEGTSXWHN/P5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKi+D7A6aYNwPn6zXnNmm14TQ/xSFQCoGtZLeGeYmoKpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1034916906",
+      "id_img": "KatawaShoujo_557762_crop2608_-144861248",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidToseBvUda6JX537p1FVFkVILcU4FhiCat3ws4NY7fzpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidToseBvUda6JX537p1FVFk95lvi7UZSs990uQ2apreVJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -112,16 +115,13 @@
         "681078604"
       ],
       "lt_id_sptag": [
+        "-561045702",
         "-1230434216",
-        "-2120528956",
-        "117222074",
-        "-353024394",
         "-1686571485",
-        "431093437",
         "-1512721032",
-        "-1165766878",
+        "768898453",
         "-899599709",
-        "1078827483"
+        "1410951528"
       ]
     }
   ],

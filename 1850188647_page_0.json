@@ -60,26 +60,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1415012668",
-      "hc_lt_id_sptag": "-1704074085",
-      "id_img": "2019-Suzuki-Swift-Sport-Katana-V3-2160_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOHS2ZmuAxlonSMc5tARhHSjQny/IuI43DnjGDlZOrnpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOHS2ZmuAxlonSMc5tARhHEFITfZU5WoHj4x7+ehvK55Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "1646752596"
-      ],
-      "lt_id_sptag": [
-        "1850188647",
-        "1033687757",
-        "-2005027998",
-        "-1945045153"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1415012668",
       "hc_lt_id_sptag": "1097721472",
       "id_img": "2019-Suzuki-Swift-Sport-Katana-V5-2160_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLGxhxP37Z+rUk+AEA5ecJCWTnqPmfFFMVowvsmr5CEZVy4706IhQgSYlgwrgVRHU=",
@@ -94,6 +74,26 @@
         "1896912288",
         "1850188647",
         "1033687757",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1415012668",
+      "hc_lt_id_sptag": "-1704074085",
+      "id_img": "2019-Suzuki-Swift-Sport-Katana-V3-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOHS2ZmuAxlonSMc5tARhHSjQny/IuI43DnjGDlZOrnpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidOHS2ZmuAxlonSMc5tARhHEFITfZU5WoHj4x7+ehvK55Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1646752596"
+      ],
+      "lt_id_sptag": [
+        "1850188647",
+        "1033687757",
+        "-2005027998",
         "-1945045153"
       ]
     }

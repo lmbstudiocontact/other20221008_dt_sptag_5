@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1198063513",
+  "hc_lt_data_img": "1639596518",
   "hc_lt_nortag": "-556739740",
-  "hc_lt_sptag": "-372570042",
+  "hc_lt_sptag": "-1291040460",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,6 +17,27 @@
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1969520411",
+      "hc_lt_id_sptag": "-1541496380",
+      "id_img": "FateApocrypha_858787_crop2608_967920697",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTp9GoHN7dkDp2I5LPQRrBr1XYu71WcJoCbcDQtqfLAJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTp9GoHN7dkDp2I5LPQRrB3py/6DwK6hyPxsp4eknqTpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-907452212",
+        "-467032699"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1956034203",
+        "-1216236529",
+        "88785476"
+      ]
+    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-2023405074",
@@ -46,28 +67,8 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1969520411",
-      "hc_lt_id_sptag": "266540689",
-      "id_img": "FateApocrypha_858787_crop2608_967920697",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTp9GoHN7dkDp2I5LPQRrBr1XYu71WcJoCbcDQtqfLAJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTp9GoHN7dkDp2I5LPQRrB3py/6DwK6hyPxsp4eknqTpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-907452212",
-        "-467032699"
-      ],
-      "lt_id_sptag": [
-        "1956034203",
-        "-1216236529",
-        "88785476"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1472176098",
-      "hc_lt_id_sptag": "-1398319298",
+      "hc_lt_id_sptag": "-978064620",
       "id_img": "FateApocrypha_956288_crop2608_1876200502",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWjAApjCzfVpxYsUkNgzHsRWlVnTNyauC7tzRMs0Kdx5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWjAApjCzfVpxYsUkNgzHsQGA1rvx8oJyaHLRcVJVvmZVy4706IhQgSYlgwrgVRHU=",
@@ -79,7 +80,8 @@
         "1728965817"
       ],
       "lt_id_sptag": [
-        "88785476"
+        "88785476",
+        "1728965817"
       ]
     }
   ],
@@ -121,6 +123,18 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-729883027",

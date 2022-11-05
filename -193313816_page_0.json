@@ -20,10 +20,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1230496042",
-      "hc_lt_id_sptag": "1330950185",
-      "id_img": "2018-TVR-Griffith-V6-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNcpOiftp3Xhl0y+XZUdQOxeD22sOMMPQq0SmJFlWr0ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNcpOiftp3Xhl0y+XZUdQOea5fBt9IC4qKSuuXFXnq5JVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1972013059",
+      "id_img": "2018-TVR-Griffith-V7-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrQjzvS8tv5PQ0s0vNz3I8ApZ1u6Mu751oe+i5KnhEgJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrQjzvS8tv5PQ0s0vNz3I88mo0rt9iMmriQmw2L+61PZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -31,7 +31,7 @@
         "-218487927"
       ],
       "lt_id_sptag": [
-        "641120196",
+        "444606691",
         "-1945968674",
         "-193313816"
       ]
@@ -77,25 +77,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1230496042",
-      "hc_lt_id_sptag": "-947629860",
-      "id_img": "2018-TVR-Griffith-V3-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3EPyBWg2v9VDsH0yP83rAePg6DX61OmQF2Sw8xVP/b5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3EPyBWg2v9VDsH0yP83rA1tsv/hnCLtWBOonfQOMZ4JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "-218487927"
-      ],
-      "lt_id_sptag": [
-        "1230660711",
-        "-1945968674",
-        "-193313816"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1230496042",
       "hc_lt_id_sptag": "-1362573291",
       "id_img": "2018-TVR-Griffith-V5-2000_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicWKPABM37GqavjfC1Lhf76tKFXW5KGLyW9UL59fKKcG5Vy4706IhQgSYlgwrgVRHU=",
@@ -115,10 +96,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1230496042",
-      "hc_lt_id_sptag": "-1972013059",
-      "id_img": "2018-TVR-Griffith-V7-2000_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrQjzvS8tv5PQ0s0vNz3I8ApZ1u6Mu751oe+i5KnhEgJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrQjzvS8tv5PQ0s0vNz3I88mo0rt9iMmriQmw2L+61PZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "1330950185",
+      "id_img": "2018-TVR-Griffith-V6-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNcpOiftp3Xhl0y+XZUdQOxeD22sOMMPQq0SmJFlWr0ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNcpOiftp3Xhl0y+XZUdQOea5fBt9IC4qKSuuXFXnq5JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -126,7 +107,26 @@
         "-218487927"
       ],
       "lt_id_sptag": [
-        "444606691",
+        "641120196",
+        "-1945968674",
+        "-193313816"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1230496042",
+      "hc_lt_id_sptag": "-947629860",
+      "id_img": "2018-TVR-Griffith-V3-2000_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3EPyBWg2v9VDsH0yP83rAePg6DX61OmQF2Sw8xVP/b5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3EPyBWg2v9VDsH0yP83rA1tsv/hnCLtWBOonfQOMZ4JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "-218487927"
+      ],
+      "lt_id_sptag": [
+        "1230660711",
         "-1945968674",
         "-193313816"
       ]

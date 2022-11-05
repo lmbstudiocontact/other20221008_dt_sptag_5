@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-863325521",
+  "hc_lt_data_img": "416356896",
   "hc_lt_nortag": "-871845585",
-  "hc_lt_sptag": "305781410",
+  "hc_lt_sptag": "-1215628556",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,32 +19,11 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1997156902",
-      "hc_lt_id_sptag": "-105982270",
-      "id_img": "SakurasouNoPetNaKanojo_735301_crop2608_-1291811196",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8dRierQby+P5K9avMcmfF/f/uxRAc1errQT+GstOs9ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8dRierQby+P5K9avMcmfFQFsV5Z3Z+QE4ZChuIwZU+JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "158341264"
-      ],
-      "lt_id_sptag": [
-        "1956034203",
-        "-1216236529",
-        "1050430500",
-        "82025094"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1522597840",
       "hc_lt_id_sptag": "796847622",
-      "id_img": "SakurasouNoPetNaKanojo_759250_crop2608_-74303141",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCA2vz5n5ttlH9W7owW+LwSG7Ps0KbBIxAxv3kSxXgwpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCA2vz5n5ttlH9W7owW+LwEs3p+aU8+L0uMQ4B3azTBJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "SakurasouNoPetNaKanojo_759250_crop2608_-1200452216",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlWE/mCd43DkQNZ5RBTO1oqXPtLeiV1thYx4Qk55y6d5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlWE/mCd43DkQNZ5RBTO1oC+rcRkthEclLsoC838CsYJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -59,8 +38,30 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1997156902",
+      "hc_lt_id_sptag": "-320556561",
+      "id_img": "SakurasouNoPetNaKanojo_735301_crop2608_-1291811196",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8dRierQby+P5K9avMcmfF/f/uxRAc1errQT+GstOs9ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8dRierQby+P5K9avMcmfFQFsV5Z3Z+QE4ZChuIwZU+JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "158341264"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1956034203",
+        "-1216236529",
+        "1050430500",
+        "82025094"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-263214401",
-      "hc_lt_id_sptag": "-177034315",
+      "hc_lt_id_sptag": "943135333",
       "id_img": "SakurasouNoPetNaKanojo_735301_crop2608_1300378737",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJUibhUE2NUU3cyYiMcO1hzwiMTFELo8MaeL6tRuyTzpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJUibhUE2NUU3cyYiMcO1hGWqiES91ITQohKknuFR9SJVy4706IhQgSYlgwrgVRHU=",
@@ -72,6 +73,7 @@
         "1728965817"
       ],
       "lt_id_sptag": [
+        "1728965817",
         "1050430500",
         "82025094"
       ]
@@ -80,9 +82,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1522597840",
       "hc_lt_id_sptag": "796847622",
-      "id_img": "SakurasouNoPetNaKanojo_759250_crop2608_-1200452216",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlWE/mCd43DkQNZ5RBTO1oqXPtLeiV1thYx4Qk55y6d5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlWE/mCd43DkQNZ5RBTO1oC+rcRkthEclLsoC838CsYJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "SakurasouNoPetNaKanojo_759250_crop2608_-74303141",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCA2vz5n5ttlH9W7owW+LwSG7Ps0KbBIxAxv3kSxXgwpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCA2vz5n5ttlH9W7owW+LwEs3p+aU8+L0uMQ4B3azTBJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -128,6 +130,18 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "1050430500",

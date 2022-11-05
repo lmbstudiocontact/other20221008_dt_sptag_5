@@ -6,9 +6,9 @@
   "total_img": 7,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "1247310746",
+  "hc_lt_data_img": "-1714375860",
   "hc_lt_nortag": "1179949518",
-  "hc_lt_sptag": "-2063083287",
+  "hc_lt_sptag": "-763571920",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,44 +17,6 @@
     }
   ],
   "lt_data_img": [
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "426641221",
-      "hc_lt_id_sptag": "-1197175169",
-      "id_img": "DGrayman_924131_crop2608_89965440",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwnTMviDMD+TsVAACIm9F2swtCBKrzF535f8WdggKClZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwnTMviDMD+TsVAACIm9F2CdICWtiycZG3kmlKynheJpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1261272524"
-      ],
-      "lt_id_sptag": [
-        "1223834475",
-        "-1599064470",
-        "-1534673115"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "426641221",
-      "hc_lt_id_sptag": "-1197175169",
-      "id_img": "DGrayman_924131_crop2608_613206674",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpY4qHP103YFJWg9gcpuI2rffIvY1xeiiNIy3t0dk735Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpY4qHP103YFJWg9gcpuI2XRNz5y3WTNuUtIgZ0U8395Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1261272524"
-      ],
-      "lt_id_sptag": [
-        "1223834475",
-        "-1599064470",
-        "-1534673115"
-      ]
-    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "426641221",
@@ -114,6 +76,46 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1050098888",
+      "hc_lt_id_sptag": "1289755058",
+      "id_img": "DGrayman_924125_crop2608_108691786",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoorZgeYoo7DSHq9+nXre91zJi8/NYyZV8ccqydfTcR5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoorZgeYoo7DSHq9+nXre9eI8OFpvhZGwvY/jiceZDOZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "1261272524"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1223834475",
+        "-1599064470",
+        "-1534673115"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "426641221",
+      "hc_lt_id_sptag": "-1197175169",
+      "id_img": "DGrayman_924131_crop2608_613206674",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpY4qHP103YFJWg9gcpuI2rffIvY1xeiiNIy3t0dk735Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpY4qHP103YFJWg9gcpuI2XRNz5y3WTNuUtIgZ0U8395Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1261272524"
+      ],
+      "lt_id_sptag": [
+        "1223834475",
+        "-1599064470",
+        "-1534673115"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-276737339",
       "hc_lt_id_sptag": "-1356414202",
       "id_img": "DGrayman_738644_crop2608_-661686630",
@@ -141,16 +143,15 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1050098888",
+      "hc_lt_id_nortag": "426641221",
       "hc_lt_id_sptag": "-1197175169",
-      "id_img": "DGrayman_924125_crop2608_108691786",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoorZgeYoo7DSHq9+nXre91zJi8/NYyZV8ccqydfTcR5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoorZgeYoo7DSHq9+nXre9eI8OFpvhZGwvY/jiceZDOZVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "DGrayman_924131_crop2608_89965440",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwnTMviDMD+TsVAACIm9F2swtCBKrzF535f8WdggKClZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwnTMviDMD+TsVAACIm9F2CdICWtiycZG3kmlKynheJpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-467032699",
         "1261272524"
       ],
       "lt_id_sptag": [
@@ -186,6 +187,12 @@
       "name_cl_sptag": "Allen Walker",
       "name_parent": "Anime",
       "total": 24
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "376240968",

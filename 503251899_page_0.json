@@ -6,9 +6,9 @@
   "total_img": 7,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-722815590",
+  "hc_lt_data_img": "-49692754",
   "hc_lt_nortag": "673951178",
-  "hc_lt_sptag": "1746192800",
+  "hc_lt_sptag": "-1812960385",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,25 +19,65 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-981089087",
-      "hc_lt_id_sptag": "-373840921",
-      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_-1371044540",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQQ4voFwiXd/+zebpXTRu4vpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQby2IJBpGiUiQhH8KmHvuIpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1532318063",
+      "hc_lt_id_sptag": "-495966316",
+      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_1827072654",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAo7Cq7errTMa7g76bWmN8+JsA37RCuCgRzm8VoEhSeZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAo7Cq7errTMa7g76bWmN8i/lNhFoA7uMe/kKnCeWJTJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
         "1589031968",
-        "1728965817"
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1545739930",
+        "1694271403",
+        "1441067176",
+        "-1230434216",
+        "-1995939363",
+        "29436897",
+        "-353024394",
+        "-67611207",
+        "1541647243",
+        "1813151526",
+        "891036203",
+        "1078827483",
+        "-2046828957",
+        "2137211747",
+        "503251899"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1532318063",
+      "hc_lt_id_sptag": "1024561384",
+      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_-1938165737",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg3VnP66qZwnPcjqPnPWdsEt96JVJKlpUEFQ2tHULFy5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg3VnP66qZwnPcjqPnPWdsKqw/IpVAViIzVM8191SGYJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1589031968",
+        "-1182628656"
       ],
       "lt_id_sptag": [
         "1694271403",
+        "-1216236529",
         "1441067176",
         "-1995939363",
         "29436897",
+        "-353024394",
+        "376240968",
         "-67611207",
+        "1541647243",
+        "680065126",
+        "-1165766878",
         "891036203",
+        "1078827483",
+        "491824726",
         "-2046828957",
         "2137211747",
         "503251899"
@@ -126,38 +166,6 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1532318063",
-      "hc_lt_id_sptag": "-495966316",
-      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_1827072654",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAo7Cq7errTMa7g76bWmN8+JsA37RCuCgRzm8VoEhSeZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAo7Cq7errTMa7g76bWmN8i/lNhFoA7uMe/kKnCeWJTJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1589031968",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "1545739930",
-        "1694271403",
-        "1441067176",
-        "-1230434216",
-        "-1995939363",
-        "29436897",
-        "-353024394",
-        "-67611207",
-        "1541647243",
-        "1813151526",
-        "891036203",
-        "1078827483",
-        "-2046828957",
-        "2137211747",
-        "503251899"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "1238006946",
       "hc_lt_id_sptag": "-1342444393",
       "id_img": "LoveLive_680772_crop2608_-131582025",
@@ -189,33 +197,26 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1532318063",
-      "hc_lt_id_sptag": "1024561384",
-      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_-1938165737",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg3VnP66qZwnPcjqPnPWdsEt96JVJKlpUEFQ2tHULFy5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieg3VnP66qZwnPcjqPnPWdsKqw/IpVAViIzVM8191SGYJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-981089087",
+      "hc_lt_id_sptag": "1095105511",
+      "id_img": "SaekanoHowtoRaiseaBoringGirlfriend_679169_crop2608_-1371044540",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQQ4voFwiXd/+zebpXTRu4vpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbSN7wBbrQziAsn4E7BDoQby2IJBpGiUiQhH8KmHvuIpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
         "1589031968",
-        "-1182628656"
+        "1728965817"
       ],
       "lt_id_sptag": [
         "1694271403",
-        "-1216236529",
         "1441067176",
         "-1995939363",
         "29436897",
-        "-353024394",
-        "376240968",
+        "1728965817",
         "-67611207",
-        "1541647243",
-        "680065126",
-        "-1165766878",
         "891036203",
-        "1078827483",
-        "491824726",
         "-2046828957",
         "2137211747",
         "503251899"
@@ -296,6 +297,12 @@
       "name_cl_sptag": "Cherry Blossom",
       "name_parent": "Anime",
       "total": 92
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "-1176638482",

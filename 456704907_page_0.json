@@ -6,9 +6,9 @@
   "total_img": 8,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1298875229",
+  "hc_lt_data_img": "1024352951",
   "hc_lt_nortag": "69310216",
-  "hc_lt_sptag": "-750049669",
+  "hc_lt_sptag": "-1628840908",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,60 +19,28 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-2092928010",
-      "hc_lt_id_sptag": "-2042843482",
-      "id_img": "Original_907769_crop2608_1193286648",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ5ubZedThN4phFJ84s+grTcQgZqaTWNGwmrDRQxtDXZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ5ubZedThN4phFJ84s+groH1f+dLTyBw6aL9tz/2F2pVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "812550897",
+      "hc_lt_id_sptag": "-1756859107",
+      "id_img": "Original_842873_crop2608_-1434843778",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTu8/Cx7EWIrK/kxFjkxE8c3l9yKQQipZ6+fLPg1bYmpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTu8/Cx7EWIrK/kxFjkxE8KX4nGFa+vgbb0FSTCXK4O5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-1182628656",
-        "-1556851449"
-      ],
-      "lt_id_sptag": [
-        "-333189356",
-        "-353024394",
-        "376240968",
-        "-67611207",
-        "-1450260536",
-        "1622667236",
-        "188734484",
-        "456704907",
-        "1078827483",
-        "665525300"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1115203702",
-      "hc_lt_id_sptag": "1356779356",
-      "id_img": "AngelBeats_841967_crop2608_1909817704",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4OxSLrXjfxPL5fcpoFDPIAJ0K1S2Gjjt8tLrysWJI85Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4OxSLrXjfxPL5fcpoFDPISIC9W8dsNROAPToi2RAXMZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1485458249",
+        "1023613280",
         "-1182628656"
       ],
       "lt_id_sptag": [
-        "-333189356",
-        "-1216236529",
-        "-1937610099",
-        "1755521698",
+        "414817241",
+        "81052085",
+        "750914149",
         "-353024394",
-        "63311442",
-        "-67611207",
-        "1622667236",
-        "680065126",
-        "1089393616",
-        "-1823594757",
+        "31526124",
+        "376240968",
+        "-1686571485",
         "456704907",
-        "1078827483",
-        "-247566452"
+        "1078827483"
       ]
     },
     {
@@ -105,9 +73,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-2092928010",
       "hc_lt_id_sptag": "-2042843482",
-      "id_img": "Original_907769_crop2608_456425754",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHWjrpnnD0KHJpu48cgUBg/t5sUNpBlBtyP8NR5/N575Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHWjrpnnD0KHJpu48cgUBguhBBg86v3TmEc/g5enYP45Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "Original_907769_crop2608_1193286648",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ5ubZedThN4phFJ84s+grTcQgZqaTWNGwmrDRQxtDXZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ5ubZedThN4phFJ84s+groH1f+dLTyBw6aL9tz/2F2pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -130,28 +98,29 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "812550897",
-      "hc_lt_id_sptag": "-1756859107",
-      "id_img": "Original_842873_crop2608_-1434843778",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTu8/Cx7EWIrK/kxFjkxE8c3l9yKQQipZ6+fLPg1bYmpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTu8/Cx7EWIrK/kxFjkxE8KX4nGFa+vgbb0FSTCXK4O5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-2092928010",
+      "hc_lt_id_sptag": "-2042843482",
+      "id_img": "Original_907769_crop2608_456425754",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHWjrpnnD0KHJpu48cgUBg/t5sUNpBlBtyP8NR5/N575Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHWjrpnnD0KHJpu48cgUBguhBBg86v3TmEc/g5enYP45Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "1023613280",
-        "-1182628656"
+        "-1182628656",
+        "-1556851449"
       ],
       "lt_id_sptag": [
-        "414817241",
-        "81052085",
-        "750914149",
+        "-333189356",
         "-353024394",
-        "31526124",
         "376240968",
-        "-1686571485",
+        "-67611207",
+        "-1450260536",
+        "1622667236",
+        "188734484",
         "456704907",
-        "1078827483"
+        "1078827483",
+        "665525300"
       ]
     },
     {
@@ -211,8 +180,39 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1115203702",
+      "hc_lt_id_sptag": "1356779356",
+      "id_img": "AngelBeats_841967_crop2608_1909817704",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4OxSLrXjfxPL5fcpoFDPIAJ0K1S2Gjjt8tLrysWJI85Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4OxSLrXjfxPL5fcpoFDPISIC9W8dsNROAPToi2RAXMZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1485458249",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-333189356",
+        "-1216236529",
+        "-1937610099",
+        "1755521698",
+        "-353024394",
+        "63311442",
+        "-67611207",
+        "1622667236",
+        "680065126",
+        "1089393616",
+        "-1823594757",
+        "456704907",
+        "1078827483",
+        "-247566452"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1433110098",
-      "hc_lt_id_sptag": "654063882",
+      "hc_lt_id_sptag": "-1153973187",
       "id_img": "Original_962960_crop2608_-1896456002",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyYMjysZbrL4g3VNqtxfe9+6I1bb5rz1n5/Fk/uZZ8CJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyYMjysZbrL4g3VNqtxfe9r6V8njJL/eC0o2Dz7HtcmpVy4706IhQgSYlgwrgVRHU=",
@@ -223,6 +223,7 @@
         "-467032699"
       ],
       "lt_id_sptag": [
+        "-467032699",
         "-333189356",
         "285041126",
         "456704907"
@@ -273,6 +274,12 @@
       "name_cl_sptag": "Bouquet",
       "name_parent": "Anime",
       "total": 5
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "1039377061",

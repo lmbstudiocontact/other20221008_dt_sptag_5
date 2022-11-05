@@ -6,9 +6,9 @@
   "total_img": 13,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "767318366",
+  "hc_lt_data_img": "-1507994738",
   "hc_lt_nortag": "-857302435",
-  "hc_lt_sptag": "-1505345618",
+  "hc_lt_sptag": "793818140",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,46 +19,22 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "2095367243",
-      "hc_lt_id_sptag": "-1643080234",
-      "id_img": "KagerouProject_977246_crop2608_205196010",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rri3YAfGcAF721DGHB0c535Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rJuuzsNVeBuf6Ck+CQDM1/5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "618627134",
+      "hc_lt_id_sptag": "-1974160539",
+      "id_img": "KagerouProject_966379_crop2608_-1526912597",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWt64T74NbQ+6cx+3bi1B73TYEwxtw+Hgydva5ilV4TZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWt64T74NbQ+6cx+3bi1B7Jzq9t2zJV7w2pO1OX/mOJ5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
+        "-467032699",
         "-1220928906"
       ],
       "lt_id_sptag": [
-        "-77415022",
+        "-467032699",
         "1239786419",
-        "-366401703",
-        "-5451261",
-        "2039769746",
-        "1574808216",
-        "-1995107884",
-        "1818726770",
-        "-1822749470"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "1300217755",
-      "hc_lt_id_sptag": "187346742",
-      "id_img": "KagerouProject_966441_crop2608_135459604",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgrWE0mhW4p4pVVW8NWWukleKG7a90xXLrZGhN/KKycZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgrWE0mhW4p4pVVW8NWWukc99MUcsQiRXY/etvzhnwSJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "-1220928906"
-      ],
-      "lt_id_sptag": [
-        "1239786419",
-        "1954999049"
+        "-5451261"
       ]
     },
     {
@@ -88,11 +64,31 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "618627134",
+      "hc_lt_id_sptag": "-1974160539",
+      "id_img": "KagerouProject_966379_crop2608_1691018106",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCCYanFQqgNXbHcvhCorpo+zBAHTZAC+HpSPgxlT+Lq5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCCYanFQqgNXbHcvhCorpo/d7XtNYFBiKNGJR0mD3j0JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1220928906"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1239786419",
+        "-5451261"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
-      "hc_lt_id_sptag": "-721202176",
-      "id_img": "KagerouProject_967335_crop2608_-963644933",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFnaQYfChx+WxR/AMzBrTsTBLgPOsdYUAF2lCF123+L5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFnaQYfChx+WxR/AMzBrTs7FRKhbXHwLjmD08Hg/RdY5Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1643080234",
+      "id_img": "KagerouProject_977246_crop2608_-448189925",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8ueneEk9TXsqlfjWiCMfsAC/Sh+t5BK3anXHlMWcr9pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8ueneEk9TXsqlfjWiCMfskWOY7cetKlu6t53h3JPjAJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -107,125 +103,42 @@
         "2039769746",
         "1574808216",
         "-1995107884",
-        "-1235382358",
         "1818726770",
-        "1954999049",
         "-1822749470"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "618627134",
-      "hc_lt_id_sptag": "-187680192",
-      "id_img": "KagerouProject_967478_crop2608_1849884599",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNwUq9lCM/7vKkvQ9kw+lF9IWSbtpg5lBnh8zCbqAzlpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNwUq9lCM/7vKkvQ9kw+lFbCK4rfsTS1XYVgJedqSIHJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "2095367243",
+      "hc_lt_id_sptag": "-1643080234",
+      "id_img": "KagerouProject_977246_crop2608_205196010",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rri3YAfGcAF721DGHB0c535Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsXgcT+MoVKbqYsE0OWQ3rJuuzsNVeBuf6Ck+CQDM1/5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
       "list_id_nortag": [
-        "-467032699",
         "-1220928906"
       ],
       "lt_id_sptag": [
-        "1956034203",
-        "-1216236529",
-        "1239786419"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "618627134",
-      "hc_lt_id_sptag": "855109880",
-      "id_img": "KagerouProject_966379_crop2608_-1526912597",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWt64T74NbQ+6cx+3bi1B73TYEwxtw+Hgydva5ilV4TZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWt64T74NbQ+6cx+3bi1B7Jzq9t2zJV7w2pO1OX/mOJ5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1220928906"
-      ],
-      "lt_id_sptag": [
-        "1239786419",
-        "-5451261"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-599193225",
-      "hc_lt_id_sptag": "-1956816592",
-      "id_img": "KagerouProject_557197_crop2608_-418325026",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsWJzpifcukw5Xjop5M2EGQZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsnyoyAeKSdi6lu9kF90YA5ZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-1220928906",
-        "-1182628656"
-      ],
-      "lt_id_sptag": [
-        "-1915687819",
-        "-1230434216",
+        "-77415022",
         "1239786419",
         "-366401703",
         "-5451261",
-        "1541647243",
-        "1813151526",
-        "768898453",
-        "1078827483",
-        "491824726",
-        "1410951528",
-        "1954999049"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "618627134",
-      "hc_lt_id_sptag": "855109880",
-      "id_img": "KagerouProject_966379_crop2608_1691018106",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCCYanFQqgNXbHcvhCorpo+zBAHTZAC+HpSPgxlT+Lq5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCCYanFQqgNXbHcvhCorpo/d7XtNYFBiKNGJR0mD3j0JVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1220928906"
-      ],
-      "lt_id_sptag": [
-        "1239786419",
-        "-5451261"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "618627134",
-      "hc_lt_id_sptag": "855109880",
-      "id_img": "KagerouProject_966379_crop2608_-1293768232",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicP4akUlTTHXLbG7ObV8cznDtHh0/4WkZCby/UWyPfGx5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicP4akUlTTHXLbG7ObV8czno5jldy2kjxq08RkFCSkv75Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-1220928906"
-      ],
-      "lt_id_sptag": [
-        "1239786419",
-        "-5451261"
+        "2039769746",
+        "1574808216",
+        "-1995107884",
+        "1818726770",
+        "-1822749470"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
       "hc_lt_id_sptag": "-721202176",
-      "id_img": "KagerouProject_967335_crop2608_1158399754",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCo7AYdyKozffQr1zMgCr6L1pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCoh6sh/4wS/C8yK5NYN5XzMpVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "KagerouProject_967335_crop2608_-963644933",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFnaQYfChx+WxR/AMzBrTsTBLgPOsdYUAF2lCF123+L5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFnaQYfChx+WxR/AMzBrTs7FRKhbXHwLjmD08Hg/RdY5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -275,6 +188,56 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "618627134",
+      "hc_lt_id_sptag": "-1995717261",
+      "id_img": "KagerouProject_967478_crop2608_1849884599",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNwUq9lCM/7vKkvQ9kw+lF9IWSbtpg5lBnh8zCbqAzlpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicNwUq9lCM/7vKkvQ9kw+lFbCK4rfsTS1XYVgJedqSIHJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1220928906"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1956034203",
+        "-1216236529",
+        "1239786419"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-599193225",
+      "hc_lt_id_sptag": "-1956816592",
+      "id_img": "KagerouProject_557197_crop2608_-418325026",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsWJzpifcukw5Xjop5M2EGQZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidW6FnY5ufmUJbP1C3fzKAsnyoyAeKSdi6lu9kF90YA5ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-1220928906",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "-1915687819",
+        "-1230434216",
+        "1239786419",
+        "-366401703",
+        "-5451261",
+        "1541647243",
+        "1813151526",
+        "768898453",
+        "1078827483",
+        "491824726",
+        "1410951528",
+        "1954999049"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
       "hc_lt_id_sptag": "-1643080234",
       "id_img": "KagerouProject_967334_crop2608_803471670",
@@ -300,11 +263,31 @@
     },
     {
       "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "618627134",
+      "hc_lt_id_sptag": "-1974160539",
+      "id_img": "KagerouProject_966379_crop2608_-1293768232",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicP4akUlTTHXLbG7ObV8cznDtHh0/4WkZCby/UWyPfGx5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicP4akUlTTHXLbG7ObV8czno5jldy2kjxq08RkFCSkv75Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-1220928906"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1239786419",
+        "-5451261"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2095367243",
-      "hc_lt_id_sptag": "-1643080234",
-      "id_img": "KagerouProject_977246_crop2608_-448189925",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8ueneEk9TXsqlfjWiCMfsAC/Sh+t5BK3anXHlMWcr9pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8ueneEk9TXsqlfjWiCMfskWOY7cetKlu6t53h3JPjAJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-721202176",
+      "id_img": "KagerouProject_967335_crop2608_1158399754",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCo7AYdyKozffQr1zMgCr6L1pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczVvaraaeM2AdLMAczBmCoh6sh/4wS/C8yK5NYN5XzMpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -319,8 +302,30 @@
         "2039769746",
         "1574808216",
         "-1995107884",
+        "-1235382358",
         "1818726770",
+        "1954999049",
         "-1822749470"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1300217755",
+      "hc_lt_id_sptag": "-1188284450",
+      "id_img": "KagerouProject_966441_crop2608_135459604",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgrWE0mhW4p4pVVW8NWWukleKG7a90xXLrZGhN/KKycZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgrWE0mhW4p4pVVW8NWWukc99MUcsQiRXY/etvzhnwSJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "-1220928906"
+      ],
+      "lt_id_sptag": [
+        "1239786419",
+        "1728965817",
+        "1954999049"
       ]
     }
   ],
@@ -362,6 +367,18 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
+    },
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
     },
     {
       "id_sptag": "491824726",
